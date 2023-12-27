@@ -3,7 +3,7 @@
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Azure SOC: Honeynet & SIEM](https://github.com/jj230/Azure-SOC)</b>
-  - Created, Monitored & Improved a Live SOC/Honeynet in Azure
+  - Created a Live SOC / Honeynet in Azure
 - <b>Holiday Hacking Challenge</b>
   -
 - <b>Haiku</b>
