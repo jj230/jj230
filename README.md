@@ -1,7 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Jaycee! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/jacinashultz/">Educator</a></h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Honeynet & SIEM</b>
+  - 
+- <b>Holiday Hacking Challenge</b>
+  -
+- <b>Haiku</b>
+  -
+- <b>Python</b>
+  -
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JacinaShultz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/jacinashultz
 
 <!--
-**jj230/jj230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**
 
 Here are some ideas to get you started:
 
