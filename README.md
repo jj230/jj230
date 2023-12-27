@@ -13,7 +13,7 @@
 
 <h2> 🤳 Connect with me:</h2> 
 
-[<img align="left" alt="JacinaShultz | LinkedIn" <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png"/>][linkedin]
+[LinkedIn" <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png"/ alt="JacinaShultz>][linkedin]
 
 [linkedin]: https://linkedin.com/in/jacinashultz
 
