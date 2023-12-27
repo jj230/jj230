@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jaycee! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/jacinashultz/">Educator</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👩‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Azure SOC: Honeynet & SIEM](https://github.com/jj230/Azure-SOC)</b>
   - Setup VMs, created a honeynet, directed logs to Azure Sentinel, monitored live attack traffic, hardened security based on NIST-800, measured improvements 
