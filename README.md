@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Honeynet & SIEM</b>
-  - 
+- <b>[Azure SOC: Honeynet & SIEM](https://github.com/jj230/Azure-SOC)</b>
+  - Setup VMs, created a honeynet, directed logs to Azure Sentinel, monitored live attack traffic, hardened security based on NIST-800, measured improvements 
 - <b>Holiday Hacking Challenge</b>
   -
 - <b>Haiku</b>
