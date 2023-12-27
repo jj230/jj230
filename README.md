@@ -11,7 +11,7 @@
 - <b>Python</b>
   -
 
-<h2> 👋🏻 Connect with me:</h2>  
+<h2> 💬 👋🏻 Connect with me:</h2>  
 
 [<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="Jacina Shultz"/>][linkedin]
 
