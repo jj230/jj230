@@ -6,9 +6,9 @@ description: >-
 
 # Azure-SOC
 
-### &#x20;                                            Azure Cloud Honeynet Final Set-Up
+### Azure Cloud Honeynet Final Set-Up
 
-<div data-full-width="false">
+<div align="left" data-full-width="false">
 
 <img src="https://github.com/jj230/Azure-SOC/assets/93885534/6e195d27-ee5a-40a8-95b0-5476f3e06b69" alt="Azure Cloud Honeynet" width="563">
 
