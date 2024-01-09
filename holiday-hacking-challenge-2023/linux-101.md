@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1629654291663-b91ad427698f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxMaW51eHxlbnwwfHx8fDE3MDQ3NTY2OTJ8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
----
-
 # Linux 101
 
 [ChatGPT Prompts/Answers](https://chat.openai.com/share/006a52f6-e4fe-4e22-a75c-b8f2a9e0f9ee)
