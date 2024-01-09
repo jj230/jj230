@@ -1,10 +1,16 @@
 ---
-description: 'Tools/Skills:'
+description: >-
+  Tools/Skills: Linux CLI, assigned privileges, command injection, privilege
+  escalation
 ---
 
 # Linux PrivEsc
 
 ## SYNOPSIS
+
+From inside of a user's (non-root/admin) account, run a binary that's stored in root.
+
+By identifying a command that allowed for unintented privilege escalation (simplecopy), I was able to copy the root directory, including the binary into my account. This allowed me to see the name of what I needed to run. From there, I was able to use a command injection to escalate my privileges to root long enough to run the binary.&#x20;
 
 ## Clue
 

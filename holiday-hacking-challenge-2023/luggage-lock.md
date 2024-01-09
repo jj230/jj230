@@ -1,10 +1,18 @@
 ---
-description: 'Tools/Skills:'
+description: >-
+  Tools/Skills: Designing & documenting a repeatable solution to a problem; how
+  to crack a luggage lock in the physical world
 ---
 
 # Luggage Lock
 
 ## SYNOPSIS
+
+Presented with a locked piece of luggage, I had to figure out the combination and open the luggage.&#x20;
+
+Following video instructions of how to crack this type of lock, I figured out the combination and opened it.
+
+I noticed that some people had mentioned the finickiness of the lock and they felt some guess work and luck was involved. I was curious about this, so I went back to fine-tune the process. I found that I was able to document a solution that should give 100% success rate - at least on the virtual platform representation of the lock. I then wrote detailed instructions on this method.
 
 ## SOLUTION
 

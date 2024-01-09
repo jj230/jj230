@@ -1,18 +1,20 @@
 ---
-description: 'Tools/Skills:'
+description: >-
+  Tools/Skills: Designing & documenting a repeatable solution to a problem; How
+  to crack a rotary lock in the real world
 ---
 
 # Faster Lock Combination
 
 ## SYNOPSIS
 
+Find the 9 possible combinations to a rotary lock. Use trial and error to find the correct combination.
 
-
-[Video](https://www.youtube.com/watch?v=27rE5ZvWLU0)
+Following the instructions as laid out in the [video](https://www.youtube.com/watch?v=27rE5ZvWLU0), I was able to find the correct combination to the rotary lock. I've documented all steps below, so that if anyone wanted to repeat my steps they could.
 
 ## SOLUTION & PROCESS
 
-
+\*Watched [How-To Video](https://www.youtube.com/watch?v=27rE5ZvWLU0)
 
 1.  Identify sticky number and the guess numbers:
 

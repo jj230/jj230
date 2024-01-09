@@ -1,6 +1,6 @@
 ---
 description: >-
-  Tools/Skills: Linux CLI: ls, pwd, cat, rm, cd, chmod, grep, find, history, ps
+  Tools/Skills: Linux CLI - ls, pwd, cat, rm, cd, chmod, grep, find, history, ps
   aux, netstat, curl, kill
 ---
 

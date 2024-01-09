@@ -1,10 +1,14 @@
 ---
-description: 'Tools/Skills:'
+description: 'Tools/Skills: Azure CLI, Azure Cloud Environment'
 ---
 
 # Azure 101
 
 ## SYNOPSIS
+
+Learn about the North Pole's cloud environment, including VMs and other resources.
+
+Through the challenge, I found account info, resource groups, functionapps within a resource group, and details of virtual machines. I also invoked a run-command to reveal a file in a vm.&#x20;
 
 ## SOLUTION
 
