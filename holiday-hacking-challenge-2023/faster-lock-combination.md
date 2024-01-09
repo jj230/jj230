@@ -1,4 +1,12 @@
+---
+description: 'Tools/Skills:'
+---
+
 # Faster Lock Combination
+
+## SYNOPSIS
+
+
 
 [Video](https://www.youtube.com/watch?v=27rE5ZvWLU0)
 

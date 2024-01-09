@@ -1,4 +1,14 @@
+---
+description: >-
+  Tools/Skills: Burpsuite - proxy, intercept, logger, intruder, cluster bomb,
+  payloads
+---
+
 # Reportinator
+
+## SYNOPSIS
+
+
 
 ## SOLUTION
 

@@ -1,4 +1,10 @@
+---
+description: 'Tools/Skills:'
+---
+
 # Certificate SSHenanigans
+
+## SYNOPSIS
 
 ## SOLUTION
 

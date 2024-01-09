@@ -1,4 +1,10 @@
+---
+description: 'Tools/Skills:'
+---
+
 # Phish Detection Agency
+
+## SYNOPSIS
 
 ## SOLUTION & PROCESS
 

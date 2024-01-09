@@ -1,10 +1,16 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1548777123-e216912df7d8?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8c25vdyUyMHNhbnRhJTIwZWx2ZXN8ZW58MHx8fHwxNzA0NzU2MjQyfDA&ixlib=rb-4.0.3&q=85
-coverY: 0
+description: >-
+  Tools/Skills: Browser's Developer Tools, HTML, JavaScript, Runtime
+  Modifications
 ---
 
 # Snowball Fight
+
+## SYNOPSIS
+
+Play a snowball fight against Santa and his Elves with another player. If you can, find a way to hack the game to make it a one-player game and/or make it easier to win.
+
+Using Chrome's browser developer tools, I modified the URL to make it a single-player game and changed variables to make it easier to win.
 
 ## SOLUTION
 

@@ -1,8 +1,23 @@
+---
+description: >-
+  Tools/Skills: Linux CLI: ls, pwd, cat, rm, cd, chmod, grep, find, history, ps
+  aux, netstat, curl, kill
+---
+
 # Linux 101
+
+## SYNOPSIS
+
+Find all of the trolls in the system. Specific instructions were given to find each troll.
+
+In the process of finding the trolls, I performed the following functions:&#x20;
+
+* List files/directories (including hidden ones), open files, remove files, identify location in system, display command history, change directory, search for a word within the files, run a binary, change permissions, copy a file, rename a file, write to a file, make a symbolic link, use find to search by name/user/file size, list running processes, display listening ports, use 'curl' to interact with server, stop a process using 'kill'
+* I used the following base commands: <mark style="background-color:red;">ls, pwd, cat, rm, cd, chmod, grep, find, history, ps aux, netstat, curl, kill</mark>
 
 [ChatGPT Prompts/Answers](https://chat.openai.com/share/006a52f6-e4fe-4e22-a75c-b8f2a9e0f9ee)
 
-Example Prompts:&#x20;
+Example Prompts:
 
 * How do I find environment variables?
 * How do I make a symbolic link?
@@ -17,8 +32,6 @@ The following are the commands and results of each step of the linux 101 challen
 <figure><img src="https://lh7-us.googleusercontent.com/rx4NslQFhseB8qmcR0M0TtvSfZCANGGy2mWAZ3K5bMCt5KUnetC3LS6FNvCXLtPgmC0Yn6rHY_jgaWtCb4vlVQXxDelrNllhfR6L6WeDzC8n4aV9aYzWwLxnQeQVbsgkpvWWB2lOHasVP6aMZ28sqo4" alt=""><figcaption></figcaption></figure>
 
 find “troll” /opt/troll\_den
-
-
 
 \*Note: The below code took a few attempts, because I took the instructions more literally than intended. It said to find a specific file size between two amounts that was created by trolls. I eventually decided to try to run the command without specifying the user or creator. It worked.
 

@@ -1,4 +1,12 @@
+---
+description: 'Tools/Skills:'
+---
+
 # Hashcat
+
+## SYNOPSIS
+
+
 
 <figure><img src="https://lh7-us.googleusercontent.com/d8Srh43agpHPGS_isVRMhT6oE62C1agdvJ3Cu3LX0-j0Y2kRoQU57TAbN_6HtBMyc5p1lr_yeOrjzQlNoxEGQxgFOxX1f_YzqQXFhq7oM_Jc7GEWHE8LcQn0zwxqbBRjIc0thjs-qw9LjMyGtPV71aE" alt=""><figcaption></figcaption></figure>
 

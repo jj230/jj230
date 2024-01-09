@@ -1,4 +1,10 @@
+---
+description: 'Tools/Skills:'
+---
+
 # Linux PrivEsc
+
+## SYNOPSIS
 
 ## Clue
 

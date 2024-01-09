@@ -1,4 +1,10 @@
+---
+description: 'Tools/Skills:'
+---
+
 # KQL Kraken Hunt
+
+## SYNOPSIS
 
 ## SOLUTION & PROCESS
 
