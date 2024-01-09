@@ -1,14 +1,18 @@
 ---
 description: >-
   Tools/Skills: Burpsuite - proxy, intercept, logger, intruder, cluster bomb,
-  payloads
+  payloads, HTTP traffic
 ---
 
 # Reportinator
 
 ## SYNOPSIS
 
+A vulnerability report of 9 vulnerabilities was created with the help of AI. Some of the vulnerabilities are hallucinations. My job was to figure out which ones.&#x20;
 
+Initially, I approached the task by trying to understand the vulnerabilities and identify which were the false positives/hallucinations. After two days of off-and-on working on this, I realized that even with the help of AI, that identifying the signs of a hallucination would take a lot more time.&#x20;
+
+With the help of some clues I read on discord, I switched tactics. I used burpsuite to intercept the HTTP traffic that was created when I gave a possible answer to the question. I, then, analyzed the logs, figured out what part of code referenced my answers, and created a clusterbomb attack to try all possible answers. In less than a half hour, the 200 code popped up, showing that I had found the hallucinations.
 
 ## SOLUTION
 
