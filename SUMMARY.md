@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Holiday Hack Challenge - 2023](README.md)
+* [Projects Overview](README.md)
+* [Azure-SOC](azure-soc.md)
+* [Holiday Hack Challenge - 2023](<README (1).md>)
   * [KQL Kraken Hunt](holiday-hack-challenge-2023/kql-kraken-hunt.md)
   * [Azure 101](holiday-hack-challenge-2023/azure-101.md)
   * [Linux 101](holiday-hack-challenge-2023/linux-101.md)
@@ -14,4 +16,3 @@
   * [Luggage Lock](holiday-hack-challenge-2023/luggage-lock.md)
   * [Faster Lock Combination](holiday-hack-challenge-2023/faster-lock-combination.md)
 * [Python Scripts](python-scripts.md)
-* [Azure-SOC](azure-soc.md)

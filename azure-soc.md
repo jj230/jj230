@@ -1,10 +1,22 @@
+---
+description: >-
+  Tools/Skills: Azure Cloud, Sentinel, Log Analytics, Firewalls, Security
+  Hardening, NIST 800-53, Entra ID, KQL
+---
+
 # Azure-SOC
 
-![Screenshot 2023-12-27 at 4 41 23 PM](https://github.com/jj230/Azure-SOC/assets/93885534/6e195d27-ee5a-40a8-95b0-5476f3e06b69)
+### &#x20;                                            Azure Cloud Honeynet Final Set-Up
+
+<div data-full-width="false">
+
+<img src="https://github.com/jj230/Azure-SOC/assets/93885534/6e195d27-ee5a-40a8-95b0-5476f3e06b69" alt="Azure Cloud Honeynet" width="563">
+
+</div>
 
 ## Introduction
 
-In this project, I created a small honeynet in Azure. I then setup a Log Aanalytics workspace to ingest the resources' logs and connected that to Microsoft Sentinel. Within Sentinel, I built attack maps and trigger alerts. I initially set up the network so that all traffic was allowed through. After a 72 hour period (Friday afternoon - Monday afternoon), I analyzed the incidents and events in Sentinel, responded to them, and gathered the attack metrics. Next, I setup Azure to monitor the safety score of the network in comparison to NIST 800-53, then followed some of its recommendations for how to harden the environment. After hardening, I waited until the following weekend to take the after-hardening attack metrics, because I wanted to compare the metrics during similar traffic times.
+In this project, I created a small honeynet in Azure. I then setup a Log Analytics workspace to ingest the resources' logs and connected that to Microsoft Sentinel. Within Sentinel, I built attack maps and trigger alerts. I initially set up the network so that all traffic was allowed through. After a 72 hour period (Friday afternoon - Monday afternoon), I analyzed the incidents and events in Sentinel, responded to them, and gathered the attack metrics. Next, I setup Azure to monitor the safety score of the network in comparison to NIST 800-53, then followed some of its recommendations for how to harden the environment. After hardening, I waited until the following weekend to take the after-hardening attack metrics, because I wanted to compare the metrics during similar traffic times.
 
 The metrics I analyzed were:
 
@@ -40,10 +52,11 @@ For the "AFTER" metrics, NSGs were hardened by blocking ALL traffic with the exc
 
 ## Attack Maps Before Hardening / Security Controls
 
-![NSG-Malicious-Allowed-In (alltime)](https://github.com/jj230/Azure-SOC/assets/93885534/5b8bb2fb-ffc5-4aa0-a8c0-5aa3d60aa6ad)\
-![Linux\_SSH\_Auth\_Fail (all time?)](https://github.com/jj230/Azure-SOC/assets/93885534/248fdc7a-5286-4c7c-aead-434d843dd970)\
-![Windows-RDP-Auth-Fail (alltime?)](https://github.com/jj230/Azure-SOC/assets/93885534/9852eeac-bc84-490f-8e17-331bfccee7d8)\
+<figure><img src="https://github.com/jj230/Azure-SOC/assets/93885534/9852eeac-bc84-490f-8e17-331bfccee7d8" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="https://github.com/jj230/Azure-SOC/assets/93885534/248fdc7a-5286-4c7c-aead-434d843dd970" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://github.com/jj230/Azure-SOC/assets/93885534/5b8bb2fb-ffc5-4aa0-a8c0-5aa3d60aa6ad" alt=""><figcaption></figcaption></figure>
 
 ## Metrics Before Hardening / Security Controls
 
