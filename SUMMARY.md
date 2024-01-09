@@ -1,4 +1,4 @@
-# Table of contents
+# Projects/Experience
 
 * [Holiday Hacking Challenge - 2023](README.md)
   * [Snowball Fight](holiday-hacking-challenge-2023/snowball-fight.md)
