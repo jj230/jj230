@@ -4,8 +4,8 @@
 
 - <b>Azure SOC: Honeynet & SIEM</b>
   - [Created a Live SOC / Honeynet in Azure](https://github.com/jj230/J_Projects/blob/main/azure-soc.md)
-- <b>Holiday Hacking Challenge</b>
-  -
+- <b>Holiday Hack Challenge 2023</b>
+  - [SANS Holiday Hack Challenges](https://github.com/jj230/J_Projects/blob/main/HolidayHackChallenge.md) 
 - <b>Haiku</b>
   -
 - <b>Python</b>
