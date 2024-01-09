@@ -1,12 +1,20 @@
 ---
-description: 'Tools/Skills:'
+description: >-
+  Tools/Skills: JSON Tokens, Browser's Developer Tools, HTML, JavaScript,
+  Runtime Modifications, BurpSuite
 ---
 
 # Elf Hunt
 
 ## SYNOPSIS
 
+In a computer game, I need to stop 75 elves by clicking on them. These elves are fast and keep changing directions.&#x20;
 
+A provided hint suggested that I look at modifying the JSON token.
+
+The way I solved this was with runtime modifications, altering variables in the console with Chrome's Developer Tools.&#x20;
+
+I also tried to solve this in two other ways: 1. I tried to solve it was with BurpSuite to modify the response. This way I believe would have worked if I was paying for BurpSuite, but I was unable to verify.  2. I tried to solve this was by editing the response within the Developer Tools. I haven't yet figured out how to make this work, but may head back to it at some point.
 
 ## SOLUTION & PROCESS
 

@@ -1,10 +1,16 @@
 ---
-description: 'Tools/Skills:'
+description: >-
+  Tools/Skills: Certificates, SSH, Azure Instance Metadata Service, Python,
+  Burpsuite, Source Code
 ---
 
 # Certificate SSHenanigans
 
 ## SYNOPSIS
+
+I needed to get access to an admin account to determine what kind of cookies were on Alabaster's to-do list.&#x20;
+
+By using a certificate generator website, I created a certificate to login as a user ("monitor") with an "Elf" Principal. I then ssh'ed into the system as "monitor". From there, I found information that I could use to access the certificate website's source code. By accessing Azure Instance Metadata Service, I found the subscription ID, resource group, and access token. With that information, I accessed the source code of the website. The source code revealed that I could specify the principal when I created a certificate. Having already located that I needed a principal of "admin", I intercepted the certificate traffic using burpsuite, specified the principal as admin, then created an admin certificate. I then logged in and found out that on Alabaster's to-do list were gingerbread cookies.
 
 ## SOLUTION
 

@@ -1,10 +1,16 @@
 ---
-description: 'Tools/Skills:'
+description: 'Tools/Skills: Identifying Phishing Emails, DMARC, DKIM-Signature'
 ---
 
 # Phish Detection Agency
 
 ## SYNOPSIS
+
+A phishing identifier isn't working perfectly, so I needed to go in and verify that phishing emails were correctly marked and that non-phishing emails were not mis-labeled.
+
+By reviewing the return-paths, received domains, problems with the DKIM-Signature and when the DMARC failed, I correctly identified all emails as either phishing or not.&#x20;
+
+Recommendation: A program should be able to be made or updated to correctly capture the phishing emails I identified. If the program automatically labeled the following cases as phishing emails, it would have had 100% success (based on this example - further testing would be required): 1. A different return-path 2. A different received domain 3. Problems with the DKIM-Signature 4. Failing the DMARC.
 
 ## SOLUTION & PROCESS
 

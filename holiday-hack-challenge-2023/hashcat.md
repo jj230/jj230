@@ -1,12 +1,14 @@
 ---
-description: 'Tools/Skills:'
+description: 'Tools/Skills: CLI, Hashcat, Hash Types'
 ---
 
 # Hashcat
 
 ## SYNOPSIS
 
+A file with a hashed password needs to be decoded by first identifying the type of hash and, then, using hashcat.&#x20;
 
+I identified the hash by comparing the hash in the file to a list of different hashes and what they look like. Once identified, I selected the necessary options to identify the type of hash (-m 18200) and the type of attack (-a 0), and joined those options with a list options I needed to include to slow down the command (-w 1 -u 1 --kernel-accel 1 --kernel-loops 1 --force).
 
 <figure><img src="https://lh7-us.googleusercontent.com/d8Srh43agpHPGS_isVRMhT6oE62C1agdvJ3Cu3LX0-j0Y2kRoQU57TAbN_6HtBMyc5p1lr_yeOrjzQlNoxEGQxgFOxX1f_YzqQXFhq7oM_Jc7GEWHE8LcQn0zwxqbBRjIc0thjs-qw9LjMyGtPV71aE" alt=""><figcaption></figcaption></figure>
 

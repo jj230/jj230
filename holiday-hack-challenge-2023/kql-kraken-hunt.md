@@ -1,10 +1,18 @@
 ---
-description: 'Tools/Skills:'
+description: >-
+  Tools/Skills: KQL, Incident Investigation, Log Analysis, Decoding
+  Base64-Encoded Powershell Commands
 ---
 
 # KQL Kraken Hunt
 
 ## SYNOPSIS
+
+An alert is generated that a malicious link was clicked on by an employee.
+
+I found the email with the malicious link & documented the sender and receiver of the email. I then identitified the victim's role, hostname and ip address. From there, I was able to find the log showing the victim had clicked on the link, when he clicked on it, and then found a file that was subsequently downloaded on his computer. From there, I found that the attacker had created a remote tunnel, then performed a search on network shares. The attacker later exploited a network share to perform lateral movement within the system. After the lateral movement, the attacker performed 3 base64-encoded powershell commands. I decoded these commands and found that the attacker transfered a file out of the system and then deleted the file from the current system.
+
+While this challenge did not go into escalation of events, at this point, if not before, I would be escalating the alert according to a company's playbook.
 
 ## SOLUTION & PROCESS
 
@@ -74,7 +82,7 @@ QUERY 2 (downloaded file):
 
 RESULT 2 (downloaded file):
 
-![](https://lh7-us.googleusercontent.com/i2eMprbbxh1QBb2an7Ne2UfpfVZkAcUYnZUN7Zw4sbRrhOyxnn0ZvrqQIvESit-hKqayao60YeqK9MwELjJJPUjJLFzSiPMna\_CIYrguPIHA8O3OGzXOumOeEYTFes2wz3DRyx-lHzmT-tBhO0nRb-0)
+<figure><img src="https://lh7-us.googleusercontent.com/i2eMprbbxh1QBb2an7Ne2UfpfVZkAcUYnZUN7Zw4sbRrhOyxnn0ZvrqQIvESit-hKqayao60YeqK9MwELjJJPUjJLFzSiPMna_CIYrguPIHA8O3OGzXOumOeEYTFes2wz3DRyx-lHzmT-tBhO0nRb-0" alt=""><figcaption></figcaption></figure>
 
 TIME (OF CLICK): 2023-12-02 10:12:42.0000
 
@@ -92,7 +100,7 @@ QUERY
 
 RESULT:
 
-![](https://lh7-us.googleusercontent.com/13na8qbqYkdYLu8903nbmkt5NsLFbw1u5T4GeWbV0T7JWvmpFUVWyW39yFKuoHTGh22vtBCWtBhp9uuFBie4Qp2ncvzQc8BY2Hcu6jfKweDo76UDjX80Nmfb3kHuDsl\_XklbYyU6F542kfH1l6iRl\_k)
+<figure><img src="https://lh7-us.googleusercontent.com/13na8qbqYkdYLu8903nbmkt5NsLFbw1u5T4GeWbV0T7JWvmpFUVWyW39yFKuoHTGh22vtBCWtBhp9uuFBie4Qp2ncvzQc8BY2Hcu6jfKweDo76UDjX80Nmfb3kHuDsl_XklbYyU6F542kfH1l6iRl_k" alt=""><figcaption></figcaption></figure>
 
 IP ADDRESS: 113.37.9.17
 
@@ -104,11 +112,11 @@ QUERY:
 
 RESULT 1 (TIME when attacker enumerated network shares):
 
-![](https://lh7-us.googleusercontent.com/utX1fUCATCO1biW6B0EuUWje\_NzTER932a0u41DC\_I8gR3D-OdP7\_\_DZk1Z9PYGlBkI2BIT7yEbwO\_fq7bM4rqilI82rjiEIQDc0BG09ryaHF1DV6qsq2tKmdnTD87\_gNppuY-tQBO-2R1kSnt-jSzw)
+<figure><img src="https://lh7-us.googleusercontent.com/utX1fUCATCO1biW6B0EuUWje_NzTER932a0u41DC_I8gR3D-OdP7__DZk1Z9PYGlBkI2BIT7yEbwO_fq7bM4rqilI82rjiEIQDc0BG09ryaHF1DV6qsq2tKmdnTD87_gNppuY-tQBO-2R1kSnt-jSzw" alt=""><figcaption></figcaption></figure>
 
 RESULT 2 (Hostname of lateral movement)
 
-![](https://lh7-us.googleusercontent.com/uLdRc2VE2m4hC8LNxvb4xW\_IfL\_GPmfwb36Xn6reOhujuxcmN-1koCRn3DSn2sXZD-oRcCJuzrfpb-f-EroyYY7usaC77uAWSDyDkLDj2a7E48PjywxaekzbluIFVTJoNo7ij25o1ATEbBxJCh3q6HM)
+<figure><img src="https://lh7-us.googleusercontent.com/uLdRc2VE2m4hC8LNxvb4xW_IfL_GPmfwb36Xn6reOhujuxcmN-1koCRn3DSn2sXZD-oRcCJuzrfpb-f-EroyYY7usaC77uAWSDyDkLDj2a7E48PjywxaekzbluIFVTJoNo7ij25o1ATEbBxJCh3q6HM" alt=""><figcaption></figcaption></figure>
 
 TIME (OF ENUMERATED NETWORK SHARES): 2023-12-02T16:51:44Z
 
@@ -121,7 +129,11 @@ Find base64 encoded powershell commands and find the name of the file that was t
 
 QUERY
 
+<div align="left">
+
 <figure><img src="https://lh7-us.googleusercontent.com/vLnmuC-nBhxoltH41WizoiRsYpbt2IpUgNIzEkO34KEuGHs6XZQUS6DlLpYLLKv84uMe8snT_QziHpl8wmeSAFjNWPNBe1uVsFuoTy10nV6QVQwFkMyupxSh5lvpk15HmyoQXnAtrDNb8XeSqzkH67o" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 RESULT
 
