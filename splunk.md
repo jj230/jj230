@@ -1,8 +1,12 @@
 ---
-description: Completed Splunk4Rookies Workshop (hosted by Splunk) on 01/11/24
+description: >-
+  Tools/Skills: Splunk, adding an app, exploring/searching data, creating
+  dashboards, extracting fields
 ---
 
 # Splunk
+
+Completed Splunk4Rookies Workshop (hosted by Splunk) on 01/11/24
 
 ## LOGIN TO INSTANCE
 
@@ -86,13 +90,13 @@ In the workshop, there were several specific searches to perform to practice sea
 
 <figure><img src=".gitbook/assets/Screenshot 2024-01-11 at 11.02.06 AM.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 <div align="left">
 
 <figure><img src=".gitbook/assets/Screenshot 2024-01-11 at 11.02.19 AM.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
+
+## CREATE DASHBOARD PANEL: LOST REVENUE
 
 <div align="center">
 
@@ -100,11 +104,7 @@ In the workshop, there were several specific searches to perform to practice sea
 
 </div>
 
-
-
 <figure><img src=".gitbook/assets/Screenshot 2024-01-11 at 11.09.04 AM.jpg" alt=""><figcaption></figcaption></figure>
-
-
 
 <div align="left">
 
@@ -112,15 +112,13 @@ In the workshop, there were several specific searches to perform to practice sea
 
 </div>
 
-
-
 <div align="left">
 
 <figure><img src=".gitbook/assets/Screenshot 2024-01-11 at 11.14.41 AM (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
-
+## DASHBOARD PANEL: WEBSITE ACTIVITY BY LOCATION
 
 <figure><img src=".gitbook/assets/Screenshot 2024-01-11 at 11.24.37 AM.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -128,13 +126,13 @@ In the workshop, there were several specific searches to perform to practice sea
 
 <figure><img src=".gitbook/assets/Screenshot 2024-01-11 at 11.28.12 AM (1).jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 <div align="left">
 
 <figure><img src=".gitbook/assets/Screenshot 2024-01-11 at 11.29.07 AM.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
+
+### CHALLENGE: CREATE A MAP EXCLUDING THE U.S.A.
 
 <figure><img src=".gitbook/assets/Screenshot 2024-01-11 at 11.32.19 AM.jpg" alt=""><figcaption></figcaption></figure>
 
