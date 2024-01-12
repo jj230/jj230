@@ -1,14 +1,10 @@
----
-description: Updated 01/11/24
----
-
 # Projects Overview
 
-This portfolio exists to hopefully give an idea of some of the practical experiences I've had within cybersecurity as well as showcase my writing abilities, organizational skills, and self-motivation.
+This portfolio exists to give an idea of some of the practical experiences I've had within cybersecurity as well as showcase my writing, organization, and problem-solving abilities.
 
 I've passed the CompTIA Security+ certification exam, showing my abstract/theoretical knowledge of cybersecurity topics. I've done these projects to gain the hands-on practical experience and have documented some of them to demonstrate this experience.
 
-I know more and have done more than what these projects depict, but this is a good sampling of various things I've learned and skills I've practiced with. \
+I have done more than these projects, but this is a good sampling of various things I've learned and skills I've practiced with. \
 \
 I will continue to update as I learn and do more.
 

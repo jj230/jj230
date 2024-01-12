@@ -1,16 +1,30 @@
-# Linux
+---
+description: 'Tools/Skills: Linux CLI'
+---
+
+# Linux CLI
+
+I've learned and practiced with linux CLI for years. Some commands I've seen only once, others I know like the back of my hand, and some I know they exist and would have to do a brief search to remind myself how to use them. And, there are some I don't know exist, but I know how to look for them.
+
+Some of the projects or challenges I've done with Linux CLI:
 
 ## Projects & Challenges
 
 ### 1. [Linux 101](../holiday-hack-challenge-2023/linux-101.md)
 
+* Tools/Skills: Linux CLI - ls, pwd, cat, rm, cd, chmod, grep, find, history, ps aux, netstat, curl, kill
+
 ### 2. [File Permissions in Linux](file-permissions-in-linux.md)
+
+* Tools/Skills: Linux CLI - ls -a -l -d, chmod
 
 ### 3. [Linux PrivEsc](../holiday-hack-challenge-2023/linux-privesc.md)
 
+* Tools/Skills: Linux CLI, assigned privileges, command injection, privilege escalation
+
 ### 4. [World of Haiku](world-of-haiku.md)
 
-
+* Tools/Skills: Linux CLI - pwd, ls, cd, cat, whoami, echo, ping, curl, ifconfig, nmap, ssh, john, hydra, rm, loic, nitro\_exp, netstat, iptables, kill
 
 ## (Attempted) Summary of Known Linux Commands
 

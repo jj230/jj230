@@ -2,11 +2,15 @@
 description: I created this algorithm during Google's Cybersecurity Certificate Program
 ---
 
-# Algorithm for file updates in Python
+# Updating File - Allowed IP Addresses
 
 ### Project description
 
 I used python to create an automated function that will update a file with the correct allowed IP addresses, removing any that are no longer allowed. A screenshot of the full code, all-together is below. The individual steps are labeled within the code as well as below the screenshot.
+
+### From Function to Script
+
+While this code itself is written as a function more than a script, it could be written as a script as well. To change it to a script, I'd update it to include the paths to the import\_file and remove\_list. For example, I could write this as a script so that anytime someone marks an IP address as needing to be removed, this script automatically runs and removes it from the list of allowed/not-allowed ip addresses. This would allow for more efficiency and less repetitive tasks.&#x20;
 
 ### Entire code
 
