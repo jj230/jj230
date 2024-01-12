@@ -4,7 +4,9 @@ description: Created during Google's Cybersecurity Course based on fictional inf
 
 # Cybersecurity Incident Report: Website Redirection
 
-Based on [fictional dns & http log](https://docs.google.com/document/d/1HXXgABNANaS0TFe\_HiI7QtTamv3AgMGhyqka1SVv3Eg/edit?usp=sharing\&resourcekey=0-z2vZuYGIo37C3lOdccPfag).
+Based on the fictional dns & http log at the bottom of this page.
+
+Technical Answers
 
 | Section 1: Identify the network protocol involved in the incident                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,3 +19,15 @@ Based on [fictional dns & http log](https://docs.google.com/document/d/1HXXgABNA
 | Section 3: Recommend one remediation for brute force attacks                                                                                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Our security team recommends enforcing 2FA for administration accounts. With 2FA, even if a password is discovered through brute force, a malicious actor will not be able to gain entry into an account because they won’t have the ability to verify the login with the second factor.  |
+
+#### Non-Technical Summary
+
+An attacker changed our website so that it would end up directing people to a fake version of our website that shows all of our recipes for free. We are now losing money as customers can get our product for free.&#x20;
+
+The attackers were able to change our website because they guessed one of our admin passwords.&#x20;
+
+To prevent a loss of income and an attack like this in the future, our security team is recommending enforcing 2FA for administration accounts. 2FA will mean that even if someone finds out a password, they will be unable to get it. While this is less convenient for those with an admin account, it will help save money, reputational harm, and future attacks.&#x20;
+
+{% embed url="https://docs.google.com/document/d/1HXXgABNANaS0TFe_HiI7QtTamv3AgMGhyqka1SVv3Eg/edit?resourcekey=0-z2vZuYGIo37C3lOdccPfag&usp=sharing" %}
+Written by Google as part of their Cybersecurity Course
+{% endembed %}

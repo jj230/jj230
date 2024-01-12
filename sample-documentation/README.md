@@ -18,10 +18,12 @@ If I know the answers to those questions, I can write what is needed.&#x20;
 
 ### 1. [**Incident Handler's Journal**](incident-handlers-journal.md)
 
+* **Tools/Skills:** Documentation, Playbooks, Wireshark, Splunk, Chronicle, VirusTotal, Incident Response Post-Incident Analysis, Logs, linux cli, tcpdump&#x20;
+
 ### **2. Incident Reports**
 
-* [**Network Traffic Analysis**](cybersecurity-incident-report-network-traffic-analysis.md)
-* [**DDos Attack**](cybersecurity-incident-report-ddos.md)
-* [**Website Redirection**](cybersecurity-incident-report-website-redirection.md)
+* [**Network Traffic Analysis**](cybersecurity-incident-report-network-traffic-analysis.md) **(technical & non-technical descriptions)**
+* [**DDos Attack**](cybersecurity-incident-report-ddos.md) **(technical & non-technical descriptions)**
+* [**Website Redirection**](cybersecurity-incident-report-website-redirection.md) **(technical & non-technical descriptions)**
 
 ### 3. [**Risk Assessment Report**](security-risk-assessment-report.md)
