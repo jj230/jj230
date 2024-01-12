@@ -2,6 +2,7 @@
 
 * [Projects Overview](README.md)
 * [Azure-SOC](azure-soc.md)
+* [Splunk](splunk.md)
 * [Holiday Hack Challenge - 2023](<README (1).md>)
   * [KQL Kraken Hunt](holiday-hack-challenge-2023/kql-kraken-hunt.md)
   * [Azure 101](holiday-hack-challenge-2023/azure-101.md)
@@ -22,6 +23,8 @@
   * [File permissions in Linux](linux/file-permissions-in-linux.md)
   * [World of Haiku](linux/world-of-haiku.md)
 * [Sample Incident Response Documentation](sample-incident-response-documentation/README.md)
-  * [Incident handler's journal](sample-incident-response-documentation/incident-handlers-journal.md)
+  * [Incident Handler's Journal](sample-incident-response-documentation/incident-handlers-journal.md)
   * [Cybersecurity Incident Report:  Network Traffic Analysis](sample-incident-response-documentation/cybersecurity-incident-report-network-traffic-analysis.md)
+  * [Cybersecurity Incident Report: DDoS](sample-incident-response-documentation/cybersecurity-incident-report-ddos.md)
+  * [Cybersecurity Incident Report: Website Redirection](sample-incident-response-documentation/cybersecurity-incident-report-website-redirection.md)
   * [Security risk assessment report 1](sample-incident-response-documentation/security-risk-assessment-report-1.md)
