@@ -23,7 +23,7 @@ Created a Honeynet, set up log analytics & Sentinel, monitored attacks, responde
 
 * Tools/Skills: **Splunk**, adding an app, exploring/searching data, creating dashboards, extracting fields
 
-### 3. [SANS Holiday Hack Challenge](README%20\(1\).md)
+### 3. [SANS Holiday Hack Challenge](SANSHolidayHackChallenge.md)
 
 * Tools/Skills: **Azure, Linux, Phishing, Burpsuite, HTTP Traffic, Certificates, Web Application Security, HTML, Javascript, Command Injection, KQL, Incident Investigation, Log Analysis**
 
