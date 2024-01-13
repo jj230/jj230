@@ -38,7 +38,7 @@ With the help of some clues I read on discord, I switched tactics. I used burpsu
 
 1. Can I figure it out on my own? → No
    * I attempted going through the first five or six potential vulnerabilities with a fine tooth comb. → I was no closer to finding the answers.&#x20;
-2. Can ChatGPT or Bard decide on the correct answers? → Nope.&#x20;
+2. **Can ChatGPT or Bard decide on the correct answers?** → Nope.&#x20;
    *   I tried both of these to see if they could spot something I couldn’t, but they couldn’t. They even disagreed with each other.
 
        ChatGPT Attempts:

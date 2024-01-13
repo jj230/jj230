@@ -1,20 +1,23 @@
 ---
 description: >-
-  Tools/Skills: JSON Tokens, Browser's Developer Tools, HTML, JavaScript,
-  Runtime Modifications, BurpSuite
+  Tools/Skills: Browser's Developer Tools, HTML, JavaScript, Runtime
+  Modifications, BurpSuite, JSON Tokens
 ---
 
 # Elf Hunt
 
 ## SYNOPSIS
 
-In a computer game, I need to stop 75 elves by clicking on them. These elves are fast and keep changing directions.&#x20;
+In a computer game, I needed to stop 75 elves by clicking on them. These elves were fast and kept changing directions.&#x20;
 
 A provided hint suggested that I look at modifying the JSON token.
 
 The way I solved this was with runtime modifications, altering variables in the console with Chrome's Developer Tools.&#x20;
 
-I also tried to solve this in two other ways: 1. I tried to solve it was with BurpSuite to modify the response. This way I believe would have worked if I was paying for BurpSuite, but I was unable to verify.  2. I tried to solve this was by editing the response within the Developer Tools. I haven't yet figured out how to make this work, but may head back to it at some point.
+I also tried to solve this in two other ways:&#x20;
+
+1. I tried to solve it was with BurpSuite to modify the response. This way I believe would have worked if I was paying for BurpSuite, but I was unable to verify.&#x20;
+2. I tried to solve this was by editing the response within the Developer Tools. I haven't yet figured out how to make this work, but may head back to it at some point.
 
 ## SOLUTION & PROCESS
 
@@ -27,9 +30,17 @@ I also tried to solve this in two other ways: 1. I tried to solve it was with Bu
 
 \*Note: I knew I hadn’t done anything with the JSON tokens, though, and figured there must be a second way.
 
-<figure><img src="https://lh7-us.googleusercontent.com/YPbrRrRiwjNiUtF4KasE3-a80V7M9z4WZufW0l6BkYpqZuPmTgBSAReTveNF-L29QebXJSzZMLpVFp1ociHqgfVzOMvfFdpxF0SPZBhGNgev0ktqe9-A4n8jVejWUuyQ7aeSyIjVFdnDGCr-ZgcLZo8" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
-<figure><img src="https://lh7-us.googleusercontent.com/x5wmB36s113jdcTyZ0PPNKG0SEfiWIXhloN6NG8t7aUAq68XalRiuZyTxVCGR9aIeKVW_yUjwtQH72WjFS-AnrzGhDNSVl-m1PMnGwLEKxrO8nJ6QiZnCMVn9nJLaJ7xuRKCfvy-OII2ffYOTDPRsB8" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/YPbrRrRiwjNiUtF4KasE3-a80V7M9z4WZufW0l6BkYpqZuPmTgBSAReTveNF-L29QebXJSzZMLpVFp1ociHqgfVzOMvfFdpxF0SPZBhGNgev0ktqe9-A4n8jVejWUuyQ7aeSyIjVFdnDGCr-ZgcLZo8" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="https://lh7-us.googleusercontent.com/x5wmB36s113jdcTyZ0PPNKG0SEfiWIXhloN6NG8t7aUAq68XalRiuZyTxVCGR9aIeKVW_yUjwtQH72WjFS-AnrzGhDNSVl-m1PMnGwLEKxrO8nJ6QiZnCMVn9nJLaJ7xuRKCfvy-OII2ffYOTDPRsB8" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 ### 2ND WAY:
 
@@ -38,7 +49,11 @@ I also tried to solve this in two other ways: 1. I tried to solve it was with Bu
 3. Used chatgpt to find out how to use burpsuite to modify responses
 4.  I got up to the point where I would’ve been able to edit the response and send it, but couldn’t do so without a paid version of burpsuite.
 
-    <figure><img src="https://lh7-us.googleusercontent.com/DJXfR4oBid5jsb0XCzP_6mYdobkabPiQ027UvIqB21k1HJIuUPB2s9M-Z0JM_gVtZ8YCPB1gKvzWPSsYa4Lmlp8WfmgoOKVShSVh-aCbk2Wcsx-5yQUqsQmdW34_3N1QVsYpvkxSKFp7710a0dKyKBY" alt=""><figcaption></figcaption></figure>
+    <div align="left">
+
+    <figure><img src="https://lh7-us.googleusercontent.com/DJXfR4oBid5jsb0XCzP_6mYdobkabPiQ027UvIqB21k1HJIuUPB2s9M-Z0JM_gVtZ8YCPB1gKvzWPSsYa4Lmlp8WfmgoOKVShSVh-aCbk2Wcsx-5yQUqsQmdW34_3N1QVsYpvkxSKFp7710a0dKyKBY" alt="" width="563"><figcaption></figcaption></figure>
+
+    </div>
 
 ### 3RD WAY:
 
@@ -48,18 +63,24 @@ I also tried to solve this in two other ways: 1. I tried to solve it was with Bu
 
 \* I haven’t yet figured out this last step. But, having already found other ways to accomplish this task, I paused and decided to retry it some other time with a fresh mind.
 
-<figure><img src="https://lh7-us.googleusercontent.com/u-ZldhrSCXrsxzc0felX1RyteyY-vCI4psJJE65aqO6xfkASDV7oibw6FbUJ0zw9f43vaYLYUVZd9vFEjLZpGnN3LZunnCVeW4QrPbferL8kp25CaH0-jNeU350svHNJNL2WfB3oiAl0drJRNYQlaqE" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
-[ChatGPT Prompts/Answers](https://chat.openai.com/share/3ab03d9a-a3ae-443e-97b5-75855ee6be72)
+<figure><img src="https://lh7-us.googleusercontent.com/u-ZldhrSCXrsxzc0felX1RyteyY-vCI4psJJE65aqO6xfkASDV7oibw6FbUJ0zw9f43vaYLYUVZd9vFEjLZpGnN3LZunnCVeW4QrPbferL8kp25CaH0-jNeU350svHNJNL2WfB3oiAl0drJRNYQlaqE" alt="" width="563"><figcaption></figcaption></figure>
 
-Example Prompts:
+</div>
+
+***
+
+## [ChatGPT Prompts/Answers](https://chat.openai.com/share/3ab03d9a-a3ae-443e-97b5-75855ee6be72)
+
+#### Example Prompts:
 
 * How do I edit a response in burpsuite?
 * Is there a way to edit responses in the free version? or without burpsuite?
 
-[Bard](https://g.co/bard/share/b3f50244573f)
+## [Bard](https://g.co/bard/share/b3f50244573f)
 
-Example Prompts:
+#### Example Prompts:
 
 * Is there a way to edit a response in chrome using developer tools?
 * I'm trying to follow method 1. For some reason, when I choose "overrride content" nothing is happening.

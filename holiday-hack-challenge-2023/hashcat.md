@@ -21,7 +21,7 @@ I identified the hash by comparing the hash in the file to a list of different h
       3. I missed that it said AS-REP, so I had to try [a few of the options ](https://hashcat.net/wiki/doku.php?id=hashcat)out before I figured out the exact type and the password.&#x20;
 2.  Input correct command
 
-    <mark style="background-color:red;">hashcat -w 1 -u 1 --kernel-accel 1 --kernel-loops 1 --force -m 18200 -a 0 hash.txt password\_list.txt</mark>
+    <mark style="background-color:red;">`hashcat -w 1 -u 1 --kernel-accel 1 --kernel-loops 1 --force -m 18200 -a 0 hash.txt password_list.txt`</mark>
 
     \*Many of these options were provided in instructions to slow down the command
 
@@ -38,17 +38,19 @@ I identified the hash by comparing the hash in the file to a list of different h
        PASSWORD: IluvC4ndyC4nes!
 4. Input answer to /bin/runtoanswer
 
-### SUMMARY
+## SUMMARY
 
-**Hash Type:** Kerberos 5 AS-REP etype 23 AS-REP
+<mark style="background-color:green;">**Hash Type:**</mark> Kerberos 5 AS-REP etype 23 AS-REP
 
-**Command:** hashcat -w 1 -u 1 --kernel-accel 1 --kernel-loops 1 --force -m 18200 -a 0 hash.txt password\_list.txt
+<mark style="background-color:green;">**Command:**</mark> `hashcat -w 1 -u 1 --kernel-accel 1 --kernel-loops 1 --force -m 18200 -a 0 hash.txt password_list.txt`
 
-**Password:** IluvC4ndyC4nes!
+<mark style="background-color:green;">**Password:**</mark> IluvC4ndyC4nes!
 
-### [ChatGPT Prompts/Answers](https://chat.openai.com/share/3d94d83c-6950-4999-88c9-143a5e45fbb5)
+***
 
-Example Prompts:
+## [ChatGPT Prompts/Answers](https://chat.openai.com/share/3d94d83c-6950-4999-88c9-143a5e45fbb5)
+
+### Example Prompts:
 
 * What does this command do? \`-w 1 -u 1 --kernel-accel 1 --kernel-loops 1\`
 * How do I use hashcat?

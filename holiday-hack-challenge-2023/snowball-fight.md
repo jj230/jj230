@@ -18,21 +18,21 @@ Using Chrome's browser developer tools, I modified the URL to make it a single-p
 2. Right Clicked → Inspect
 3. Clicked Console → selected Room
 4. Examined the variables and code
-   * [x] console.log(window);
-   * [x] console.log(document);
+   * [x] `console.log(window);`
+   * [x] `console.log(document);`
 5.  Modified the URL programmatically
 
-    <mark style="color:green;">const urlParams = new URLSearchParams(window.location.search);</mark>
+    <mark style="color:green;">`const urlParams = new URLSearchParams(window.location.search);`</mark>
 
-    <mark style="color:green;">urlParams.set('singlePlayer', 'true');</mark>
+    <mark style="color:green;">`urlParams.set('singlePlayer', 'true');`</mark>
 
-    <mark style="color:green;">const newUrl = \`${window.location.pathname}?${urlParams}\`;</mark>
+    <mark style="color:green;">``const newUrl = `${window.location.pathname}?${urlParams}`;``</mark>
 
-    <mark style="color:green;">window.history.replaceState({}, '', newUrl);</mark>
+    <mark style="color:green;">`window.history.replaceState({}, '', newUrl);`</mark>
 
-    <mark style="color:green;">location.reload();</mark>&#x20;
+    <mark style="color:green;">`location.reload();`</mark>&#x20;
 6. Re-displayed global variables
-   * [x] console.log(window);
+   * [x] `console.log(window);`
 7. Changed Variables
    * [x] Elfhitboxsize → changed all to 100
    * [x] elfThrowDelay → changed to 200,000
@@ -49,7 +49,7 @@ Using Chrome's browser developer tools, I modified the URL to make it a single-p
 I initially saw that I would have to pair up with another player, unless I could find a way to hack the game. I’ve never hacked a game, but decided I wanted to learn.
 
 1. The Basics: What is the iframe? Where is the client-side code? How can I find the variables?&#x20;
-   *   [x] [ChatGPT Prompts/Answers](https://chat.openai.com/share/df7207c3-0c83-45c8-a3c9-87390ddc7d71)
+   *   [x] [**ChatGPT Prompts/Answers**](https://chat.openai.com/share/df7207c3-0c83-45c8-a3c9-87390ddc7d71)
 
        Example Prompts:&#x20;
 
@@ -58,7 +58,7 @@ I initially saw that I would have to pair up with another player, unless I could
    * [x] Typing into the console is allowed.&#x20;
      * I realized, contrary to my initial assumption, that I needed to type into the console to search for the variables.
 2. Updating “Single Player”
-   *   [x] &#x20;[ChatGPT Prompts/Answers](https://chat.openai.com/share/6ca29cb8-9d2f-4c4e-b2f9-acd6b9957cef)
+   *   [x] &#x20;[**ChatGPT Prompts/Answers**](https://chat.openai.com/share/6ca29cb8-9d2f-4c4e-b2f9-acd6b9957cef)
 
        &#x20;Example Prompts:&#x20;
 
@@ -75,7 +75,7 @@ I initially saw that I would have to pair up with another player, unless I could
      * [x] Updated variables such as speed and the size of the hit box. I managed to give myself a lot of health and made it so the elves and santa couldn’t throw snowballs. BUT I accidentally made it so that Santa couldn’t be damaged
        *   [x] Problem Identified: I thought of “hitbox” as the opposite of what they are.I thought playerhitbox, for instance, was about how effective the player would be when they attacked someone. But, it turns out, it’s about when they will get damaged.
 
-           [ChatGPT Prompts/Answers](https://chat.openai.com/share/7090e80a-ef8a-4890-aaaf-5834ecc3858b)
+           [**ChatGPT Prompts/Answers**](https://chat.openai.com/share/7090e80a-ef8a-4890-aaaf-5834ecc3858b)
 
            Prompts:&#x20;
 
