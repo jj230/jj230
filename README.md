@@ -1,12 +1,15 @@
-<h1>Hi, I'm Jaycee! <br/><a href="https://www.linkedin.com/in/jacinashultz/">Cybersecurity Professional</a> <a> and </a> <a href="https://github.com/jacinashultz">Learner</a></h1>
-
-<h2>👩‍💻 Cybersecurity Projects:</h2>
-
 ---
+description: >-
   Tools/Skills: Azure, CLI (Linux/Unix, Bash, Powershell, MacOS), SIEMs, Splunk,
   Burp Suite, Packet Analysis (Wireshark, tcpdump), VMs, Scripts, Python, SQL,
   KQL, Standards/Regulations, & more
 ---
+
+# Projects Overview
+
+## 👩‍💻 Cybersecurity Projects:
+
+***
 
 ### 1. [Azure Honeynet](azure-soc.md)
 
@@ -20,7 +23,7 @@ Created a Honeynet, set up log analytics & Sentinel, monitored attacks, responde
 
 * Tools/Skills: **Splunk**, adding an app, exploring/searching data, creating dashboards, extracting fields
 
-### 3. [SANS Holiday Hack Challenge](<README (1).md>)
+### 3. [SANS Holiday Hack Challenge](README%20\(1\).md)
 
 * Tools/Skills: **Azure, Linux, Phishing, Burpsuite, HTTP Traffic, Certificates, Web Application Security, HTML, Javascript, Command Injection, KQL, Incident Investigation, Log Analysis**
 
@@ -31,25 +34,4 @@ Created a Honeynet, set up log analytics & Sentinel, monitored attacks, responde
 ### 6. [Documentation](sample-documentation/)
 
 * Types of **Documentation**: Incident Journals/Reports (technical & non-technical), Risk Assessment
-* Tools/Skills: **Playbooks, Wireshark, Splunk, Chronicle, VirusTotal, Incident Response Post-Incident Analysis, Logs, Linux CLI, tcpdump**&#x20;
-
-<h2> 👋🏻 Connect with me:</h2>  
-
-[<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="Jacina Shultz"/>][linkedin]
-
-[linkedin]: https://linkedin.com/in/jacinashultz
-
-<!--
-**
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Tools/Skills: **Playbooks, Wireshark, Splunk, Chronicle, VirusTotal, Incident Response Post-Incident Analysis, Logs, Linux CLI, tcpdump**
