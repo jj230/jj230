@@ -2,7 +2,7 @@
 
 ### Tools/Skills: 
 
-Splunk: adding an app, exploring/searching data, creating dashboards, extracting fields
+Splunk - adding an app, exploring/searching data, creating dashboards, extracting fields
 
 ---
 
