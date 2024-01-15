@@ -2,7 +2,7 @@
 
 ### Tools/Skills 
 
-Tools/Skills: CLI, Hashcat, Hash Types
+CLI, Hashcat, Hash Types
 
 ---
 
