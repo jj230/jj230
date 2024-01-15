@@ -32,7 +32,7 @@ Splunk Workshop - Based on weblogs data from a fictional instance, I setup an ap
 
 ### 3. [SANS Holiday Hack Challenge](SANSHolidayHackChallenge.md)
 
-* Tools/Skills: Azure, Linux, Phishing, Burpsuite, HTTP Traffic, Certificates, Web Application Security, HTML, Javascript, Command Injection, KQL, Incident Investigation, Log Analysis
+* Tools/Skills: Azure, Linux, Phishing, Burp Suite, HTTP Traffic, Certificates, Web Application Security, HTML, Javascript, Command Injection, KQL, Incident Investigation, Log Analysis
 
 ### 4. [Python Scripts](python-scripts/)
 
