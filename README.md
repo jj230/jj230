@@ -1,11 +1,10 @@
+# Projects Overview
+
 ---
-description: >-
   Tools/Skills: Azure, CLI (Linux/Unix, Bash, Powershell, MacOS), SIEMs, Splunk,
   Burp Suite, Packet Analysis (Wireshark, tcpdump), VMs, Scripts, Python, SQL,
   KQL, Standards/Regulations, & more
 ---
-
-# Projects Overview
 
 ## 👩‍💻 Cybersecurity Projects:
 
