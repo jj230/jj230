@@ -1,10 +1,8 @@
----
-description: I created this algorithm during Google's Cybersecurity Certificate Program
----
-
 # Updating File - Allowed IP Addresses
 
 ### Project description
+
+I created this algorithm during Google's Cybersecurity Certificate Program.
 
 I used python to create an automated function that will update a file with the correct allowed IP addresses, removing any that are no longer allowed. A screenshot of the full code, all-together is below. The individual steps are labeled within the code as well as below the screenshot.
 
