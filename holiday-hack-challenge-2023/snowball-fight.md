@@ -1,10 +1,10 @@
----
-description: >-
-  Tools/Skills: Browser's Developer Tools, HTML, JavaScript, Runtime
-  Modifications
----
-
 # Snowball Fight
+
+### Tools/Skills 
+
+Browser's Developer Tools, HTML, JavaScript, Runtime Modifications
+
+---
 
 ## SYNOPSIS
 
