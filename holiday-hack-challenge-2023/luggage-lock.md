@@ -1,10 +1,10 @@
----
-description: >-
-  Tools/Skills: Designing & documenting a repeatable solution to a problem; how
-  to crack a luggage lock in the physical world
----
-
 # Luggage Lock
+
+### Tools/Skills 
+
+Designing & documenting a repeatable solution to a problem; how to crack a luggage lock in the physical world
+
+---
 
 ## SYNOPSIS
 
