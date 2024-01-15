@@ -67,7 +67,7 @@ I initially saw that I would have to pair up with another player, unless I could
    * [x] Attempts:
      * I then searched through the variables and found something that said “singlePlayer: “false””. I changed it to say “true”. Unfortunately, when I did that and then selected play, I couldn’t see my cursor, move my snowman and no elves or Santa were on the screen.
      * I tried changing the game mode and the single value, but the same thing happened. It looks like there’s something that is set to replace my changes, so maybe I need to look at that.&#x20;
-     * I continued using chatgpt to narrow down where I was going wrong. I altered between having it analyze code that looked related to the single player setting and asking for code to help update the game. I ended up going to the javascript directly and updating the local code to say single player, but that wasn’t enough.&#x20;
+     * I continued using ChatGPT to narrow down where I was going wrong. I altered between having it analyze code that looked related to the single player setting and asking for code to help update the game. I ended up going to the javascript directly and updating the local code to say single player, but that wasn’t enough.&#x20;
      * Arriving at the Solution:
        * [x] In the end, I had to update the url itself. All of my searches can be seen in the following link.
 3. Further Exploration
@@ -81,4 +81,4 @@ I initially saw that I would have to pair up with another player, unless I could
 
            * What does hitboxsize refer to in the context of computer game code?
            * So, if the box is too small, that would make the object hard to ever hit?
-       * [x] Problem Solved: I then changed my hitbox to zero, so that I could not ever be damaged. And increased the numbers of the elves and santa and they became easy targets.
+       * [x] Problem Solved: I then changed my hitbox to zero, so that I could not ever be damaged. And increased the numbers of the elves and santa and they would become easy targets.
