@@ -25,7 +25,7 @@ Recommendation: A program should be able to be made or updated to correctly capt
      * It didn’t end up revealing any phishing attempts, but I did because this would be an easy typosquat to miss
    * I was prepared to also look for unusual dates and times, as well as content that didn’t seem to match the domain, but I didn’t end up needing to.
 
-\*I used a couple chatgpt prompts to help ensure I was on the right track.
+\*I used a couple ChatGPT prompts to help ensure I was on the right track.
 
 ***
 
