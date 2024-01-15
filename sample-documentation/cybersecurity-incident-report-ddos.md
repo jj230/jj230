@@ -24,6 +24,6 @@ Based on a fictional TCP/HTTP log included at the bottom of this page.
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Our website has too many cars on its highways, so to speak, so traffic is unable to move in or out. No one can access our website and our website can't respond to anyone. If our website continues to remain inaccessible, customers may start to form a negative opinion of our company or simply may not want to wait until we are back online again. They may take their business elsewhere, hurting the company financially. |
 
-{% embed url="https://docs.google.com/spreadsheets/d/1VkkFlFpBInQsJ-sTH6Zhi7CYnB1lCDGkyJ1F_bflJz0/edit?usp=sharing" %}
-Written by Google as part of their Cybersecurity Course
-{% endembed %}
+[Google Cybersecurity Course Spreadsheet](https://docs.google.com/spreadsheets/d/1VkkFlFpBInQsJ-sTH6Zhi7CYnB1lCDGkyJ1F_bflJz0/edit?usp=sharing)
+*Written by Google as part of their Cybersecurity Course*
+
