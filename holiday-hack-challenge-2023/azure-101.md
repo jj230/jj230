@@ -1,8 +1,10 @@
----
-description: 'Tools/Skills: Azure CLI, Azure Cloud Environment'
----
-
 # Azure 101
+
+### Tools/Skills 
+
+Azure CLI, Azure Cloud Environment
+
+---
 
 ## SYNOPSIS
 
