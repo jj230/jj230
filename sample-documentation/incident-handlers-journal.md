@@ -1,14 +1,8 @@
----
-description: Created during Google's Cybersecurity Course based on fictional information
----
-
 # Incident Handler's Journal
 
 **Tools/Skills: Documentation, Playbooks, Wireshark, Splunk, Chronicle, VirusTotal, Incident Response Post-Incident Analysis, Logs, linux cli, tcpdump**&#x20;
 
-
-
-Based on 8 fictional scenarios, I was asked to write a journal entry in the format depicted below, including a description of the event, any tools that were used, basic information as to the W's (who, what, where, when, why), and any additional notes on thoughts or questions to consider.
+Created during Google's Cybersecurity Course based on 8 fictional scenarios. I was asked to write a journal entry in the format depicted below, including a description of the event, any tools that were used, basic information as to the W's (who, what, where, when, why), and any additional notes on thoughts or questions to consider.
 
 ### Entry 1: Phising Email -> Ransomeware
 
