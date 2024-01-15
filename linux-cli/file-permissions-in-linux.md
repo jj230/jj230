@@ -1,10 +1,8 @@
----
-description: I completed this during Google's Cybersecurity Certificate Program
----
-
 # File permissions in Linux
 
 ### Project description
+
+I completed this during Google's Cybersecurity Certificate Program.
 
 In the project directory, there are several files, including a hidden file, and a subdirectory that have permissions in need of being updated. I checked the directory and file permissions, identified what needed to be changed, then updated the permissions.
 
