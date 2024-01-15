@@ -10,7 +10,7 @@ Certificates, SSH, Azure Instance Metadata Service, Python, Burp Suite, Source C
 
 I needed to get access to an admin account to determine what kind of cookies were on Alabaster's to-do list.&#x20;
 
-By using a certificate generator website, I created a certificate to login as a user ("monitor") with an "Elf" Principal. I then ssh'ed into the system as "monitor". From there, I found information that I could use to access the certificate website's source code. By accessing Azure Instance Metadata Service, I found the subscription ID, resource group, and access token. With that information, I accessed the source code of the website. The source code revealed that I could specify the principal when I created a certificate. Having already located that I needed a principal of "admin", I intercepted the certificate traffic using burpsuite, specified the principal as admin, then created an admin certificate. I then logged in and found out that on Alabaster's to-do list were gingerbread cookies.
+By using a certificate generator website, I created a certificate to login as a user ("monitor") with an "Elf" Principal. I then ssh'ed into the system as "monitor". From there, I found information that I could use to access the certificate website's source code. By accessing Azure Instance Metadata Service, I found the subscription ID, resource group, and access token. With that information, I accessed the source code of the website. The source code revealed that I could specify the principal when I created a certificate. Having already located that I needed a principal of "admin", I intercepted the certificate traffic using Burp Suite, specified the principal as admin, then created an admin certificate. I then logged in and found out that on Alabaster's to-do list were gingerbread cookies.
 
 ## SOLUTION
 
@@ -66,7 +66,7 @@ By using a certificate generator website, I created a certificate to login as a 
     <figure><img src="https://lh7-us.googleusercontent.com/Wh3R2qfRGqmaUMh2Uk4hcaYLGPA5Fb__o4Zk7Ro0Sxd0G6i7SIRmK7jfdm61b4Zb7rKqdkrmeTIPy_bzEMlZP4AhX2ZREDnsKa02IB8MawMSGI8cqP10-bS7m5lZ6vJ68rNBu4w3n6Btbhl9ls48-BU" alt="" width="563"><figcaption></figcaption></figure>
 
     </div>
-9.  Using burpsuite, I intercepted the message, added the principal as “admin”, then copied and pasted the certificate into my certificate file for alabaster.
+9.  Using Burp Suite, I intercepted the message, added the principal as “admin”, then copied and pasted the certificate into my certificate file for alabaster.
 
     <figure><img src="https://lh7-us.googleusercontent.com/TpsVD7j0-POonCNQqBl1aF9Q_r7up_2bIiZMORZpeh2ZOtStIOZbiz4yE6xL4CRry_aGLjvx8vNTKNBWAkLE90PkXM8e3VZebA1TpJ7Wff01tAvggWP-pJ4r_BTA60O40Y3gNO_8xZvuQUGfEpHrch4" alt=""><figcaption></figcaption></figure>
 10. I logged in as alabaster (whose principal is “admin”) and opened the todo list file.
