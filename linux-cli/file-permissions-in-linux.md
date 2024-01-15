@@ -88,6 +88,6 @@ Below are steps taken to verify the current permission and update them. At times
 
 ### Summary
 
-After reviewing and updating permissions, all permissions for the directory projects/ is updated and correct. The security team would be able to move forward confidently knowing that they are following the rule of least privilege.
+After reviewing and updating permissions, all permissions for the directory projects/ are updated and correct. The security team would be able to move forward confidently knowing that they are following the rule of least privilege.
 
 \
