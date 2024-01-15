@@ -1,7 +1,6 @@
----
-description: >-
-  Tools/Skills: Python - Cybersecurity, Scripting, Python - Data Science, SQL,
-  matplotlib, pandas, numpy
+### Tools/Skills: 
+Python - Cybersecurity, Scripting, Python - Data Science, SQL, matplotlib, pandas, numpy
+
 ---
 
 # Python Scripts
