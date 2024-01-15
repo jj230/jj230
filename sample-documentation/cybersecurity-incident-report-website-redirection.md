@@ -1,12 +1,8 @@
----
-description: Created during Google's Cybersecurity Course based on fictional information
----
-
 # Cybersecurity Incident Report: Website Redirection
 
-Based on the fictional dns & http log at the bottom of this page.
+Created during Google's Cybersecurity Course. Based on the fictional dns & http log at the bottom of this page. 
 
-Technical Answers
+### Technical Answers
 
 | Section 1: Identify the network protocol involved in the incident                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,7 +16,7 @@ Technical Answers
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Our security team recommends enforcing 2FA for administration accounts. With 2FA, even if a password is discovered through brute force, a malicious actor will not be able to gain entry into an account because they won’t have the ability to verify the login with the second factor.  |
 
-#### Non-Technical Summary
+### Non-Technical Summary
 
 An attacker changed our website so that it would end up directing people to a fake version of our website that shows all of our recipes for free. We are now losing money as customers can get our product for free.&#x20;
 
