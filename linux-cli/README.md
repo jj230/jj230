@@ -1,7 +1,3 @@
----
-description: 'Tools/Skills: Linux CLI'
----
-
 # Linux CLI
 
 I've learned and practiced with linux CLI for years. Some commands I've seen only once, others I know like the back of my hand, and some I know they exist and would have to do a brief search to remind myself how to use them. And, there are some I don't know exist, but I know how to look for them.
