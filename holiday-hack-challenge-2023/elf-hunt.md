@@ -1,10 +1,10 @@
----
-description: >-
-  Tools/Skills: Browser's Developer Tools, HTML, JavaScript, Runtime
-  Modifications, BurpSuite, JSON Tokens
----
-
 # Elf Hunt
+
+### Tools/Skills 
+
+Browser's Developer Tools, HTML, JavaScript, Runtime Modifications, Burp Suite, JSON Tokens
+
+---
 
 ## SYNOPSIS
 
@@ -16,7 +16,7 @@ The way I solved this was with runtime modifications, altering variables in the 
 
 I also tried to solve this in two other ways:&#x20;
 
-1. I tried to solve it was with BurpSuite to modify the response. This way I believe would have worked if I was paying for BurpSuite, but I was unable to verify.&#x20;
+1. I tried to solve it was with Burp Suite to modify the response. This way I believe would have worked if I was paying for Burp Suite, but I was unable to verify.&#x20;
 2. I tried to solve this was by editing the response within the Developer Tools. I haven't yet figured out how to make this work, but may head back to it at some point.
 
 ## SOLUTION & PROCESS
@@ -46,8 +46,8 @@ I also tried to solve this in two other ways:&#x20;
 
 1. Researched on the discord channel
 2. Found a youtube video
-3. Used chatgpt to find out how to use burpsuite to modify responses
-4.  I got up to the point where I would’ve been able to edit the response and send it, but couldn’t do so without a paid version of burpsuite.
+3. Used chatgpt to find out how to use Burp Suite to modify responses
+4.  I got up to the point where I would’ve been able to edit the response and send it, but couldn’t do so without a paid version of Burp Suite.
 
     <div align="left">
 
@@ -75,8 +75,8 @@ I also tried to solve this in two other ways:&#x20;
 
 #### Example Prompts:
 
-* How do I edit a response in burpsuite?
-* Is there a way to edit responses in the free version? or without burpsuite?
+* How do I edit a response in Burp Suite?
+* Is there a way to edit responses in the free version? or without Burp Suite?
 
 ## [Bard](https://g.co/bard/share/b3f50244573f)
 
