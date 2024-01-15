@@ -6,6 +6,10 @@
   KQL, Standards/Regulations, & more
 ---
 
+### This portfolio is also available to read on Gitbook:
+[![Read on GitBook](https://img.shields.io/badge/GitBook-Read-4FC08D?style=for-the-badge&logo=gitbook)](https://jacina.gitbook.io/jacina-shultz/)
+
+
 ## 👩‍💻 Cybersecurity Projects:
 
 ***
