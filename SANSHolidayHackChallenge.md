@@ -1,6 +1,8 @@
 # SANS Holiday Hack Challenge - 2023
 
-Hands-on cybersecurity challenges created by SANS and sponsored by Google, Microsoft, and Amazon. Topics included: Cloud Security, Web Application Security, Threat Hunting, Log Analysis and more.
+Hands-on cybersecurity challenges created by SANS and sponsored by Google, Microsoft, and Amazon. Topics included: Cloud Security, Web Application Security, Threat Hunting, Log Analysis and more. 
+
+This year, the challenge creators specifically encouraged the use of AI Tools to help solve challenges.
 
 Below are each challenge that I completed and some of the primary tools/skills involved in each. Click on the title for more information about each challenge and what I did to solve it.
 
