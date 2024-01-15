@@ -34,3 +34,6 @@ Created a Honeynet, set up log analytics & Sentinel, monitored attacks, responde
 
 * Types of **Documentation**: Incident Journals/Reports (technical & non-technical), Risk Assessment
 * Tools/Skills: **Playbooks, Wireshark, Splunk, Chronicle, VirusTotal, Incident Response Post-Incident Analysis, Logs, Linux CLI, tcpdump**
+  
+## Connect with Me:
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jacinashultz/)
