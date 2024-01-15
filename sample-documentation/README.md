@@ -1,7 +1,3 @@
----
-description: 'Skills/Tools: Writing, Formatting, Tailoring for Audience, Identifying Purpose'
----
-
 # Sample Documentation
 
 As someone with a B.A. in English and Mathematics, who was a math teacher department chair at a high school for 6 years, and the same school's registrar, I am adept at writing technical, non-technical, and technical-in-a-non-technical-way documentation and tailoring it to the audience. &#x20;
