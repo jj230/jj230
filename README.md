@@ -1,14 +1,16 @@
 # Projects Overview
 
+### This portfolio is also available to see on Gitbook:
+[![Read on GitBook](https://img.shields.io/badge/GitBook-Read-4FC08D?style=for-the-badge&logo=gitbook)](https://jacina.gitbook.io/jacina-shultz/)
+
+
+
+
 ---
   Tools/Skills: Azure, CLI (Linux/Unix, Bash, Powershell, MacOS), SIEMs, Splunk,
   Burp Suite, Packet Analysis (Wireshark, tcpdump), VMs, Scripts, Python, SQL,
   KQL, Standards/Regulations, & more
 ---
-
-### This portfolio is also available to read on Gitbook:
-[![Read on GitBook](https://img.shields.io/badge/GitBook-Read-4FC08D?style=for-the-badge&logo=gitbook)](https://jacina.gitbook.io/jacina-shultz/)
-
 
 ## 👩‍💻 Cybersecurity Projects:
 
