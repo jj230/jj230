@@ -1,10 +1,10 @@
----
-description: >-
-  Tools/Skills: Designing & documenting a repeatable solution to a problem; How
-  to crack a rotary lock in the real world
----
-
 # Faster Lock Combination
+
+### Tools/Skills 
+
+Designing & documenting a repeatable solution to a problem; How to crack a rotary lock in the real world.
+
+---
 
 ## SYNOPSIS
 
