@@ -1,6 +1,6 @@
 # World of Haiku
 
-&#x20;Within [World of Haiku](https://play.haikuinc.io/game), I've completed all of Volume I, including their Dojos, and started volume 2. This platform is setup as a gamefied teaching tool so that users are learning these commands in fictional, real-world scenarios.
+&#x20;Within [World of Haiku](https://play.haikuinc.io/game), I've completed all of Volume I, including their Dojos, and started volume 2. This platform is set up as a gamified teaching tool so that users are learning these commands in fictional, real-world scenarios.
 
 1. **System Basics:**
    * Commands: pwd, ls, cd, cat, whoami, echo
