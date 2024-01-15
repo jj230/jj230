@@ -1,10 +1,10 @@
----
-description: >-
-  Tools/Skills: Certificates, SSH, Azure Instance Metadata Service, Python,
-  Burpsuite, Source Code
----
-
 # Certificate SSHenanigans
+
+### Tools/Skills 
+
+Certificates, SSH, Azure Instance Metadata Service, Python, Burp Suite, Source Code
+
+---
 
 ## SYNOPSIS
 
