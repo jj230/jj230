@@ -16,8 +16,8 @@ The way I solved this was with runtime modifications, altering variables in the 
 
 I also tried to solve this in two other ways:&#x20;
 
-1. I tried to solve it was with Burp Suite to modify the response. This way I believe would have worked if I was paying for Burp Suite, but I was unable to verify.&#x20;
-2. I tried to solve this was by editing the response within the Developer Tools. I haven't yet figured out how to make this work, but may head back to it at some point.
+1. I tried to solve it with Burp Suite to modify the response. This way I believe would have worked if I was paying for Burp Suite, but I was unable to verify.&#x20;
+2. I tried to solve this by editing the response within the Developer Tools. I haven't yet figured out how to make this work, but may head back to it at some point.
 
 ## SOLUTION & PROCESS
 
@@ -46,7 +46,7 @@ I also tried to solve this in two other ways:&#x20;
 
 1. Researched on the discord channel
 2. Found a youtube video
-3. Used chatgpt to find out how to use Burp Suite to modify responses
+3. Used ChatGPT to find out how to use Burp Suite to modify responses
 4.  I got up to the point where I would’ve been able to edit the response and send it, but couldn’t do so without a paid version of Burp Suite.
 
     <div align="left">
@@ -83,4 +83,4 @@ I also tried to solve this in two other ways:&#x20;
 #### Example Prompts:
 
 * Is there a way to edit a response in chrome using developer tools?
-* I'm trying to follow method 1. For some reason, when I choose "overrride content" nothing is happening.
+* I'm trying to follow method 1. For some reason, when I choose "override content" nothing is happening.
