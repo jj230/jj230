@@ -24,6 +24,6 @@ The attackers were able to change our website because they guessed one of our ad
 
 To prevent a loss of income and an attack like this in the future, our security team is recommending enforcing 2FA for administration accounts. 2FA will mean that even if someone finds out a password, they will be unable to get it. While this is less convenient for those with an admin account, it will help save money, reputational harm, and future attacks.&#x20;
 
-{% embed url="https://docs.google.com/document/d/1HXXgABNANaS0TFe_HiI7QtTamv3AgMGhyqka1SVv3Eg/edit?resourcekey=0-z2vZuYGIo37C3lOdccPfag&usp=sharing" %}
-Written by Google as part of their Cybersecurity Course
-{% endembed %}
+[Google Cybersecurity Course Document](https://docs.google.com/document/d/1HXXgABNANaS0TFe_HiI7QtTamv3AgMGhyqka1SVv3Eg/edit?resourcekey=0-z2vZuYGIo37C3lOdccPfag&usp=sharing)
+*Written by Google as part of their Cybersecurity Course*
+
