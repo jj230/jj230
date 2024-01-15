@@ -1,9 +1,3 @@
----
-description: >-
-  Tools/Skills: Linux CLI - pwd, ls, cd, cat, whoami, echo, ping, curl,
-  ifconfig, nmap, ssh, john, hydra, rm, loic, nitro_exp, netstat, iptables, kill
----
-
 # World of Haiku
 
 &#x20;Within [World of Haiku](https://play.haikuinc.io/game), I've completed all of Volume I, including their Dojos, and started volume 2. This platform is setup as a gamefied teaching tool so that users are learning these commands in fictional, real-world scenarios.
