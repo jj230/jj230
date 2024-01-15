@@ -10,7 +10,7 @@ Certificates, SSH, Azure Instance Metadata Service, Python, Burp Suite, Source C
 
 I needed to get access to an admin account to determine what kind of cookies were on Alabaster's to-do list.&#x20;
 
-By using a certificate generator website, I created a certificate to login as a user ("monitor") with an "Elf" Principal. I then ssh'ed into the system as "monitor". From there, I found information that I could use to access the certificate website's source code. By accessing Azure Instance Metadata Service, I found the subscription ID, resource group, and access token. With that information, I accessed the source code of the website. The source code revealed that I could specify the principal when I created a certificate. Having already located that I needed a principal of "admin", I intercepted the certificate traffic using Burp Suite, specified the principal as admin, then created an admin certificate. I then logged in and found out that on Alabaster's to-do list were gingerbread cookies.
+By using a certificate generator website, I created a certificate to login as a user ("monitor") with an "Elf" Principal. I then ssh'd into the system as "monitor". From there, I found information that I could use to access the certificate website's source code. By accessing Azure Instance Metadata Service, I found the subscription ID, resource group, and access token. With that information, I accessed the source code of the website. The source code revealed that I could specify the principal when I created a certificate. Having already located that I needed a principal of "admin", I intercepted the certificate traffic using Burp Suite, specified the principal as admin, then created an admin certificate. I then logged in and found out that on Alabaster's to-do list were gingerbread cookies.
 
 ## SOLUTION
 
@@ -47,7 +47,7 @@ By using a certificate generator website, I created a certificate to login as a 
     <mark style="background-color:red;">`-H "Authorization: Bearer [access token] " \ https://management.azure.com/subscriptions/2b0942f3-9bca-484b-a508-abdae2db5e64/resourceGroups/northpole-rg1/providers/Microsoft.Web/sites/northpole-ssh-certs-fa/sourcecontrols/web?api-version=2022-03-01`</mark>&#x20;
 
     * REPOSITORY: [https://github.com/SantaWorkshopGeeseIslandsDevOps/northpole-ssh-certs-fa](https://github.com/SantaWorkshopGeeseIslandsDevOps/northpole-ssh-certs-fa)
-8.  In the Github repo, it shows that the code is willing to take an input for both the public key and the principal. If the principal is not included, it will go to the default (elf). I looked at the way the response would like like, which gave me an indication as to the format it wanted the http request in: {“ssh\_cert”: string, “principal”: string}. I also looked at the sanitation that was happening to get a feel for the format.
+8.  In the Github repo, it shows that the code is willing to take an input for both the public key and the principal. If the principal is not included, it will go to the default (elf). I looked at the way the response would look like, which gave me an indication as to the format it wanted the http request in: {“ssh\_cert”: string, “principal”: string}. I also looked at the sanitation that was happening to get a feel for the format.
 
     <div align="left">
 
