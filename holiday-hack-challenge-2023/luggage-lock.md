@@ -26,7 +26,7 @@ I noticed that some people had mentioned the finickiness of the lock and they fe
 
 1. I experimented with the one and two combinations to begin with.&#x20;
    * The first thing I realized was that the luggage would only ever open on the 6th time of pushing the key button
-2. Watched help video.
+2. Watched the help video.
    * I recognized that the 5 times before that 6th push represented different pressure levels.&#x20;
    * I learned that if I push in the key button just a little and feel resistance that would give me a clue as to what the combination was.&#x20;
 3. I started with the right-most number and felt resistance on only one option.&#x20;
