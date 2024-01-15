@@ -1,10 +1,6 @@
----
-description: Created during Google's Cybersecurity Course based on fictional information
----
-
 # Security Risk Assessment Report
 
-Based on the vulnerability assessment report at the bottom of this page (not written by me), I selected three hardening tools/methods to implement to reduce vulnerabilities.
+Created during Google's Cybersecurity Course based on fictional information. Based on the vulnerability assessment report at the bottom of this page (not written by me), I selected three hardening tools/methods to implement to reduce vulnerabilities.
 
 | Part 1: Select up to three hardening tools and methods to implement            |
 | ------------------------------------------------------------------------------ |
