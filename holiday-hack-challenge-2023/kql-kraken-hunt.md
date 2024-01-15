@@ -1,10 +1,10 @@
----
-description: >-
-  Tools/Skills: KQL, Incident Investigation, Log Analysis, Decoding
-  Base64-Encoded Powershell Commands
----
-
 # KQL Kraken Hunt
+
+### Tools/Skills 
+
+KQL, Incident Investigation, Log Analysis, Decoding Base64-Encoded Powershell Commands
+
+---
 
 ## SYNOPSIS
 
