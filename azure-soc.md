@@ -1,7 +1,7 @@
----
-  Tools/Skills: Azure Cloud, Sentinel, Log Analytics, Firewalls, Security
-  Hardening, NIST 800-53, KQL, Entra ID/Active Directory, Incident Response,
-  Incident Investigation, Incident Documentation
+
+### Tools/Skills: 
+Azure Cloud, Sentinel, Log Analytics, Firewalls, Security Hardening, NIST 800-53, KQL, Entra ID/Active Directory, Incident Response, Incident Investigation, Incident Documentation
+
 ---
 
 # Azure-SOC
