@@ -1,14 +1,12 @@
-# Splunk
-
-Completed Splunk4Rookies Workshop (hosted by Splunk) on 01/11/24
-
----
-
 ### Tools/Skills: 
 
 Splunk - adding an app, exploring/searching data, creating dashboards, extracting fields
 
 ---
+
+# Splunk
+
+Completed Splunk4Rookies Workshop (hosted by Splunk) on 01/11/24
 
 ## LOGIN TO INSTANCE
 
