@@ -1,8 +1,10 @@
----
-description: 'Tools/Skills: CLI, Hashcat, Hash Types'
----
-
 # Hashcat
+
+### Tools/Skills 
+
+Tools/Skills: CLI, Hashcat, Hash Types
+
+---
 
 ## SYNOPSIS
 
