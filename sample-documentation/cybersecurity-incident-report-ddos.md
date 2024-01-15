@@ -4,7 +4,7 @@ Created during Google's Cybersecurity Course.
 
 Based on a fictional TCP/HTTP log included at the bottom of this page. 
 
-#### Technical Answers
+### Technical Answers
 
 | Identify the type of attack that may have caused this  network interruption                                                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -14,7 +14,7 @@ Based on a fictional TCP/HTTP log included at the bottom of this page.
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | The flood of SYN requests is overwhelming the web server, making it unresponsive to all requests, even legitimate ones. If the web server remains unresponsive, the company could suffer damages to its reputation and finances. Customers may lose trust in the safety of the website or they may simply not want to wait for it to get back online. In either case, customers may decide to give their business to a different company. |
 
-#### Non-Technical Answers
+### Non-Technical Answers
 
 | Identify the type of attack that may have caused this  network interruption                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
