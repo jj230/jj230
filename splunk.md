@@ -10,7 +10,7 @@ Completed Splunk4Rookies Workshop (hosted by Splunk) on 01/11/24
 
 ## LOGIN TO INSTANCE
 
-Splunk provided an instance for each individual the attended the workshop. With the account info provided, I logged into mine.
+Splunk provided an instance for each individual who attended the workshop. With the account info provided, I logged into mine.
 
 ## ADD NEW APP
 
@@ -20,7 +20,7 @@ I created an app within the instance for the use case of today's lesson. It's wh
 
 ## ADD DATA
 
-The application is configured to collected weblogs into the splunk4rookies app I just created.
+The application is configured to collect weblogs into the splunk4rookies app I just created.
 
 <figure><img src=".gitbook/assets/Screenshot 2024-01-11 at 9.57.32 AM.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +54,7 @@ I narrowed the search by specifying I'd like the data organized by time and sepa
 
 <figure><img src=".gitbook/assets/Screenshot 2024-01-11 at 10.20.21 AM.jpg" alt=""><figcaption></figcaption></figure>
 
-After creating the dashboard panel, I added it to a new dashboard, "Buttercup Enterprise." I set it as absolute control, which allowed me complete control to configure how to dashboard is setup.
+After creating the dashboard panel, I added it to a new dashboard, "Buttercup Enterprise." I set it as absolute control, which allowed me complete control to configure how the dashboard is set up.
 
 <div align="left">
 
@@ -66,7 +66,7 @@ After creating the dashboard panel, I added it to a new dashboard, "Buttercup En
 
 <figure><img src=".gitbook/assets/Screenshot 2024-01-11 at 10.50.13 AM.jpg" alt=""><figcaption></figcaption></figure>
 
-I perfomed a basic query on events within the last 60 minutes. From one of the events, I extracted the OS field and saved it as "platform". This would allow me to sort and query data based on what platform a user was utilizing.
+I performed a basic query on events within the last 60 minutes. From one of the events, I extracted the OS field and saved it as "platform". This would allow me to sort and query data based on what platform a user was utilizing.
 
 <div align="left">
 
@@ -150,7 +150,7 @@ I saved this panel to the existing dashboard.
 
 <figure><img src=".gitbook/assets/Screenshot 2024-01-11 at 11.32.19 AM.jpg" alt=""><figcaption></figcaption></figure>
 
-The challenge question asked me to update the search to remove the United States. I added in a line that specifically said the Country shouldn't be United States. I added this after I called on the iplocation so that the program had the information to sort out the US locations. I also specified search at the beginning of the argument because any search that happens after the main query in the beginning needs to be specified as a "search".&#x20;
+The challenge question asked me to update the search to remove the United States. I added in a line that specifically said the Country shouldn't be the United States. I added this after I called on the iplocation so that the program had the information to sort out the US locations. I also specified search at the beginning of the argument because any search that happens after the main query in the beginning needs to be specified as a "search".&#x20;
 
 ### CHALLENGE ANSWER
 
