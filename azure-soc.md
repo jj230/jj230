@@ -72,7 +72,7 @@ That being said, the victim's computer is involved in many attacks originating f
 
 Though the alert was a false positive, this type of traffic shouldn’t be reaching the VM.&#x20;
 
-Closing Incident as False Positive. Will start process for security hardening.
+Closing Incident as False Positive. Will start the process for security hardening.
 
 ## BEFORE AND AFTER METRICS
 
@@ -209,6 +209,6 @@ This table illustrates the change in percentage of attacks of each of the monito
 
 I learned through this project how to set up a network on Azure, including VMs, NSGs, Log Analytics, Microsoft Sentinel, and Entra ID. I learned how to create different workbooks and attack maps based on incoming incidents. I learned to use KQL and sort through thousands of logs. I practiced responding to incidents and remediating them. I also learned to work with and apply security recommendations, specifically with NIST 800-53.
 
-This project shows how important even the smallest steps are to hardening an environment. Only minimal hardening steps were taken, but the results were dramatic. For a network with higher needs, valuable resources, and sensitive information, I would certainly want to secure the environment further. The Azure environment was fully setup for me to easily take those next steps to secure the environment even more if need be. I also could have added different recommendations to the environment to check against those.
+This project shows how important even the smallest steps are to hardening an environment. Only minimal hardening steps were taken, but the results were dramatic. For a network with higher needs, valuable resources, and sensitive information, I would certainly want to secure the environment further. The Azure environment was fully set up for me to easily take those next steps to secure the environment even more if need be. I also could have added different recommendations to the environment to check against those.
 
 I would like to better understand why there are still security events after hardening: what are they, how could I stop them, and why didn't they show up on the maps. Now that I have a good visualization for this project, I would be curious to re-create this lab a 2nd time to more deeply understand it and to experiment with applying more of the NIST 800-53 recommendations.
