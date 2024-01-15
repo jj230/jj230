@@ -22,26 +22,30 @@ KQL, Standards/Regulations, & more
 
 Created a Honeynet, set up log analytics & Sentinel, monitored attacks, responded to incidents, hardened environment
 
-* Tools/Skills Worked On: **Azure Cloud, Sentinel, Log Analytics, Firewalls, Security Hardening, NIST 800-53, KQL, Entra ID/Active Directory, Incident Response, Incident Investigation, Incident Documentation**
+* Tools/Skills Worked On: Azure Cloud, Sentinel, Log Analytics, Firewalls, Security Hardening, NIST 800-53, KQL, Entra ID/Active Directory, Incident Response, Incident Investigation, Incident Documentation
 
 ### 2. [Splunk](splunk.md)
 
-**Splunk Workshop** - Based on weblogs data from a fictional instance, I setup an app and a dashboard within it
+Splunk Workshop - Based on weblogs data from a fictional instance, I setup an app and a dashboard within it
 
-* Tools/Skills: **Splunk**, adding an app, exploring/searching data, creating dashboards, extracting fields
+* Tools/Skills: Splunk, adding an app, exploring/searching data, creating dashboards, extracting fields
 
 ### 3. [SANS Holiday Hack Challenge](SANSHolidayHackChallenge.md)
 
-* Tools/Skills: **Azure, Linux, Phishing, Burpsuite, HTTP Traffic, Certificates, Web Application Security, HTML, Javascript, Command Injection, KQL, Incident Investigation, Log Analysis**
+* Tools/Skills: Azure, Linux, Phishing, Burpsuite, HTTP Traffic, Certificates, Web Application Security, HTML, Javascript, Command Injection, KQL, Incident Investigation, Log Analysis
 
 ### 4. [Python Scripts](python-scripts/)
 
+* Tools/Skills: Python - Cybersecurity, Scripting, Python - Data Science, SQL, matplotlib, pandas, numpy
+
 ### 5. [Linux](linux-cli/)
+
+* Tools/Skills: Linux CLI
 
 ### 6. [Documentation](sample-documentation/)
 
-* Types of **Documentation**: Incident Journals/Reports (technical & non-technical), Risk Assessment
-* Tools/Skills: **Playbooks, Wireshark, Splunk, Chronicle, VirusTotal, Incident Response Post-Incident Analysis, Logs, Linux CLI, tcpdump**
+* Types of Documentation: Incident Journals/Reports (technical & non-technical), Risk Assessment
+* Tools/Skills: Playbooks, Wireshark, Splunk, Chronicle, VirusTotal, Incident Response Post-Incident Analysis, Logs, Linux CLI, tcpdump
   
 ## Connect with Me:
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jacinashultz/)
