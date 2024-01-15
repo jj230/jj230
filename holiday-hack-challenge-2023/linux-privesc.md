@@ -1,10 +1,10 @@
----
-description: >-
-  Tools/Skills: Linux CLI, assigned privileges, command injection, privilege
-  escalation
----
-
 # Linux PrivEsc
+
+### Tools/Skills 
+
+Linux CLI, assigned privileges, command injection, privilege escalation
+
+---
 
 ## SYNOPSIS
 
