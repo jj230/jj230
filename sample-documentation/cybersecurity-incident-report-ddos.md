@@ -1,10 +1,8 @@
----
-description: Created during Google's Cybersecurity Course based on fictional information
----
-
 # Cybersecurity Incident Report: DDoS
 
-Based on a fictional TCP/HTTP log included at the bottom of this page.
+Created during Google's Cybersecurity Course.
+
+Based on a fictional TCP/HTTP log included at the bottom of this page. 
 
 #### Technical Answers
 
