@@ -32,11 +32,11 @@ Tools/Skills: **Identifying Phishing Emails, DMARC, DKIM-Signature**
 
 ## [Reportinator](holiday-hack-challenge-2023/reportinator.md)
 
-Tools/Skills: **Burpsuite** - proxy, intercept, logger, intruder, cluster bomb, payloads, HTTP traffic
+Tools/Skills: **Burp Suite** - proxy, intercept, logger, intruder, cluster bomb, payloads, HTTP traffic
 
 ## [Certificate SSHenanigans](holiday-hack-challenge-2023/certificate-sshenanigans.md)
 
-Tools/Skills: **Certificates, SSH, Azure Instance Metadata Service, Python, Burpsuite, Source Code**
+Tools/Skills: **Certificates, SSH, Azure Instance Metadata Service, Python, Burp Suite, Source Code**
 
 ## [Snowball Fight](holiday-hack-challenge-2023/snowball-fight.md)
 
@@ -44,7 +44,7 @@ Tools/Skills: **Browser's Developer Tools, HTML, JavaScript, Runtime Modificatio
 
 ## [**Elf Hunt**](holiday-hack-challenge-2023/elf-hunt.md)
 
-Tools/Skills: JSON Tokens, Browser's Developer Tools, HTML, JavaScript, Runtime Modifications, BurpSuite
+Tools/Skills: JSON Tokens, Browser's Developer Tools, HTML, JavaScript, Runtime Modifications, Burp Suite
 
 ## [**Luggage Lock**](holiday-hack-challenge-2023/luggage-lock.md)
 
