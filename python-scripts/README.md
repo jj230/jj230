@@ -1,9 +1,10 @@
-### Tools/Skills: 
+# Python Scripts
+
+### Tools/Skills 
+
 Python - Cybersecurity, Scripting, Python - Data Science, SQL, matplotlib, pandas, numpy
 
 ---
-
-# Python Scripts
 
 I started learning python several years ago through codecademy. I did all of my initial learning through the context of data science. This means I also experimented SQL as well as python libraries such as matplotlib, pandas and numpy.
 
