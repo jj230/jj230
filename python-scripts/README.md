@@ -15,3 +15,5 @@ A couple of projects I've done within this domain are below:
 #### 1. [Updating ](updating-file-allowed-ip-addresses.md)[F](updating-file-allowed-ip-addresses.md)[ile - Allowed IP Addresses Script](updating-file-allowed-ip-addresses.md)
 
 #### 2. [SSH Login Brute Forcing Script](ssh-login-brute-forcing.md)
+
+#### 3. [SHA 256 Password Cracking](python-scripts/sha256-cracking.md)
