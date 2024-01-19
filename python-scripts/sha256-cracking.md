@@ -1,4 +1,4 @@
-# SHA256 Password Hash Cracking
+# SHA256 Password Cracking
 
 I created this script during TCM's Python 101 for Hackers course.
 
