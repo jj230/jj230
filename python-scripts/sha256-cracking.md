@@ -6,7 +6,7 @@ On a Kali Linux VM through UTM, I created a python script for cracking a SHA256 
 
 ## Code
 
-This is the final script.
+This is the final script. You can see my comments throughout the code detailing the purpose of different parts of it.
 
 <div align="left">
 
