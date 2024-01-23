@@ -24,21 +24,25 @@ Created a Honeynet, set up log analytics & Sentinel, monitored attacks, responde
 
 * Tools/Skills Worked On: Azure Cloud, Sentinel, Log Analytics, Firewalls, Security Hardening, NIST 800-53, KQL, Entra ID/Active Directory, Incident Response, Incident Investigation, Incident Documentation
 
-### 2. [Splunk](splunk.md)
+### 2. [AIG Shields Up: Cybersecurity Job Simulation]
+
+Researched a reported vulnerability, drafted an email to guide teams on vulnerability remediation, created a python script to brute force password for encrypted files. 
+
+### 3. [Splunk](splunk.md)
 
 Splunk Workshop - Based on weblogs data from a fictional instance, I setup an app and a dashboard within it
 
 * Tools/Skills: Splunk, adding an app, exploring/searching data, creating dashboards, extracting fields
 
-### 3. [SANS Holiday Hack Challenge](SANSHolidayHackChallenge.md)
+### 4. [SANS Holiday Hack Challenge](SANSHolidayHackChallenge.md)
 
 * Tools/Skills: Azure, Linux, Phishing, Burp Suite, HTTP Traffic, Certificates, Web Application Security, HTML, Javascript, Command Injection, KQL, Incident Investigation, Log Analysis
 
-### 4. [Python Scripts](python-scripts/)
+### 5. [Python Scripts](python-scripts/)
 
 * Tools/Skills: Python - Cybersecurity, Scripting, Python - Data Science, SQL, matplotlib, pandas, numpy
 
-### 5. [Linux](linux-cli/)
+### 6. [Linux](linux-cli/)
 
 * Tools/Skills: Linux CLI
 
