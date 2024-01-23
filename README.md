@@ -24,9 +24,11 @@ Created a Honeynet, set up log analytics & Sentinel, monitored attacks, responde
 
 * Tools/Skills Worked On: Azure Cloud, Sentinel, Log Analytics, Firewalls, Security Hardening, NIST 800-53, KQL, Entra ID/Active Directory, Incident Response, Incident Investigation, Incident Documentation
 
-### 2. [AIG Shields Up: Cybersecurity Job Simulation]
+### 2. [AIG Shields Up: Cybersecurity Job Simulation](AIG-JobSimulation.md)
 
 Researched a reported vulnerability, drafted an email to guide teams on vulnerability remediation, created a python script to brute force password for encrypted files. 
+
+*Tools/Skills: Vulnerability Analysis, Python Scripting, Email Documentation
 
 ### 3. [Splunk](splunk.md)
 
