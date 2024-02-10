@@ -1,6 +1,7 @@
 
 ### Tools/Skills: 
-Azure Cloud, Sentinel, Log Analytics, Firewalls, Security Hardening, NIST 800-53, KQL, Entra ID/Active Directory, Incident Response, Incident Investigation, Incident Documentation
+Azure Cloud, Sentinel, Log Analytics, Firewalls, Security Hardening, NIST 800-53, KQL, Entra ID/Active Directory, Incident Response, Incident Investigation, Incident Documentation, Alert Creation,
+Private Endpoints, NSGs, Defender for Cloud, Private Link, Workbooks, Log Ingestion, Storage Blob, Key Vault, VMs, Resource Groups
 
 ---
 
@@ -15,8 +16,11 @@ Azure Cloud, Sentinel, Log Analytics, Firewalls, Security Hardening, NIST 800-53
 <img src="https://github.com/jj230/Azure-SOC/assets/93885534/6e195d27-ee5a-40a8-95b0-5476f3e06b69" alt="Azure Cloud Honeynet" width="563">
 
 </div>
+I decided to create this virtual network, set up and manage a SIEM, and implement security controls, because I wanted to better understand cloud environments. I wanted to get a visual picture of how the environment, the logs, the SIEM, the firewalls (or NSGs), the security controls and the frameworks all come together. I knew Azure was a popular cloud service and I knew once I figured out how something works in one environment, I'd be able to transfer that knowledge to a similar tool, such as AWS.
 
-In this project, I created a small honeynet in Azure. I set up a Log Analytics workspace to ingest the resources' logs and connected it to Microsoft Sentinel. Within Sentinel, I built attack maps and created trigger alerts. I initially designed the network so that all traffic was allowed through. After a 72 hour period, I analyzed the incidents and events in Sentinel, responded to them, and gathered the attack metrics. After the 72 attack period, I updated my configurations in Azure to monitor the safety score of the network in comparison to NIST 800-53, then followed some of its recommendations for how to harden the environment. After hardening, I waited until the following weekend to take the after-hardening attack metrics, because I wanted to compare the metrics during similar traffic times.
+In this project, I designed a purposely insecure environment (a small honeynet) in Azure, set up a Log Analytics workspace, configured logging, set up Microsoft Sentinel (SIEM), built workbooks with attack maps, created alerts that would document incidents, and triaged and responded to these incidents. I initially designed the network so that all traffic was allowed through. 
+
+After a 72 hour period of outside attacks, I enabled NIST 800-53 into Defender for Cloud, then followed some of its suggestions to secure the environment. I added an NSG around my subnet, I enabled Private Endpoints & firewalls on my storage blob and Key Vault, while also setting up private links for them. I then modified the rules in my VMs' NSGs to block unwanted traffic. I then observed my logs and alerts for 72 hours to visualize the difference. 
 
 #### The metrics I analyzed were:
 
@@ -29,12 +33,15 @@ In this project, I created a small honeynet in Azure. I set up a Log Analytics w
 #### The architecture of the mini honeynet in Azure consists of the following components:
 
 * Virtual Network (VNet)
-* Network Security Group (NSG)
+* Network Security Group (NSGs - vm's and subnet)
 * Virtual Machines (2 windows, 1 linux)
 * Log Analytics Workspace
 * Azure Key Vault
 * Azure Storage Account
 * Microsoft Sentinel
+* Defender for Cloud
+* Private Endpoints
+* Private Link
 
 ## SENTINEL - INCIDENT RESPONSE
 
@@ -207,8 +214,8 @@ This table illustrates the change in percentage of attacks of each of the monito
 
 ## REFLECTIONS
 
-I learned through this project how to set up a network on Azure, including VMs, NSGs, Log Analytics, Microsoft Sentinel, and Entra ID. I learned how to create different workbooks and attack maps based on incoming incidents. I learned to use KQL and sort through thousands of logs. I practiced responding to incidents and remediating them. I also learned to work with and apply security recommendations, specifically with NIST 800-53.
+Through this project, I learned not only how to manage aspects of a SOC, I also learned important steps into creating it. I experienced how to set up & manage a network on Azure, including VMs, NSGs, Log Analytics, Microsoft Sentinel, and Entra ID. I learned how to create different workbooks and attack maps based on incoming incidents. I learned to use KQL and sort through thousands of logs. I experienced responding to incidents and remediating them. I also learned to work with and apply security recommendations, specifically with NIST 800-53.
 
-This project shows how important even the smallest steps are to hardening an environment. Only minimal hardening steps were taken, but the results were dramatic. For a network with higher needs, valuable resources, and sensitive information, I would certainly want to secure the environment further. The Azure environment was fully set up for me to easily take those next steps to secure the environment even more if need be. I also could have added different recommendations to the environment to check against those.
+This project shows how important even the smallest steps are to hardening an environment. Only minimal hardening steps were taken, but the results were dramatic. For a network with higher needs, valuable resources, and sensitive information, I would certainly want to secure the environment further. The Azure environment was fully set up for me to easily take those next steps to secure the environment even more if need be. I also could have added different recommendations/framework to Microsoft Defender to check on my environment's security posture in relation to those frameworks.
 
-I would like to better understand why there are still security events after hardening: what are they, how could I stop them, and why didn't they show up on the maps. Now that I have a good visualization for this project, I would be curious to re-create this lab a 2nd time to more deeply understand it and to experiment with applying more of the NIST 800-53 recommendations.
+For another project, I'd like to get more hands on experience with fine-tuning alerts. By fine-tuning the alerts that come in, I could minimize the number of incidents that need to be sorted and allow analysts to put more focus on the ones that most matter.
