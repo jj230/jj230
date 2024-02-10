@@ -5,7 +5,7 @@ Private Endpoints, NSGs, Defender for Cloud, Private Link, Workbooks, Log Ingest
 
 ---
 
-# Azure-SOC
+# Azure SOC & Honeynet
 
 ## INTRODUCTION
 
