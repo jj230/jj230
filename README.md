@@ -13,7 +13,7 @@ DeepBlueCLI, Volatility, ZAP, Bluespawn & more
 
 ## 👩‍💻 Cybersecurity Projects:
 
-### 1. [Azure Honeynet](azure-soc.md)
+### 1. [Azure SOC & Honeynet](azure-soc.md)
 
 Created a Honeynet, set up log analytics & Sentinel, monitored attacks, responded to incidents, hardened environment
 
