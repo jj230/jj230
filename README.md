@@ -17,7 +17,7 @@ DeepBlueCLI, Volatility, ZAP, Bluespawn & more
 
 Created a Honeynet, set up log analytics & Sentinel, monitored attacks, responded to incidents, hardened environment
 
-* Tools/Skills Worked On: Azure Cloud, Sentinel, Log Analytics, Firewalls, Security Hardening, NIST 800-53, KQL, Entra ID/Active Directory, Incident Response, Incident Investigation, Incident Documentation
+* Tools/Skills Worked On: Azure Cloud, Sentinel, Log Analytics, Firewalls, Security Hardening, NIST 800-53, KQL, Entra ID/Active Directory, Incident Response, Incident Investigation, Incident Documentation, Alert Creation, Private Endpoints, NSGs, Defender for Cloud, Private Link, Workbooks, Log Ingestion, Storage Blob, Key Vault, VMs, Resource Groups
 
 ### 2. [AIG Shields Up: Cybersecurity Job Simulation](AIG-JobSimulation.md)
 
