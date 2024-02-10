@@ -4,10 +4,8 @@
 
 ### Tools/Skills: 
   
-Azure, CLI (Linux/Unix, Bash, Powershell, MacOS), SIEMs, Splunk,
-Burp Suite, Packet Analysis (Wireshark, tcpdump), VMs, Scripts, Python, SQL,
-KQL, Standards/Regulations, Frameworks (e.g. NIST 800-53, PCI DSS), Nessus, 
-DeepBlueCLI, Volatility, ZAP, Bluespawn & more
+Azure, CLI (Linux/Unix, Bash, Powershell, MacOS), SIEMs (Sentinel, Splunk), Firewalls, Entra ID, Incident Response, Documentation, Private Endpoints, Defender for Cloud, Private Link, Log Ingestion, VMs, Burp Suite, Packet Analysis (Wireshark, tcpdump), Scripts, Python, SQL,
+KQL, Standards/Regulations, Frameworks (e.g. NIST 800-53, PCI DSS), Nessus, DeepBlueCLI, Volatility, ZAP, Bluespawn & more
 
 ---
 
