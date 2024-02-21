@@ -14,70 +14,57 @@ SIEM (Splunk), Dashboard Creation, Data Analysis, Data Visualization, Fraud-Rela
 </div>
 <br>
 
-## Scenario 1: Splunk Dashboard Creation
+## Task 1: Fraud Data Analysis - Splunk Dashboard Creation
 "Analyze and visualize cyber data to uncover trends and patterns."
 
 The company asked for a dashboard that would help gather necessary data to predict or detect fraud. They were specifically interested in the following categories: merchants, age of customers, gender of customers, category of purchases and month of purchase. Based on the specific charts the company indicated they'd like to have, I designed a dashboard in splunk for easy visualization of this data.
 <br>
 <br>
 ![Screenshot 2024-02-21 at 11 59 17 AM](https://github.com/jj230/jj230/assets/93885534/b82caf83-30c5-49a2-984f-27d9a6094b4f)
-
-
-<br>
-ADVISORY 2: [CISA Ransomware Advisory](https://www.cisa.gov/news-events/news/cisa-fbi-nsa-and-international-partners-issue-advisory-ransomware-trends-2021
-)
-<br>
 <br>
 
-#### Task Description
+## Task 2: Incident Response
+"Mitigate cyber incidents by analyzing, responding and recovering for your organization."
+
+IT Services at Commonwealth Bank has flagged an issue that my team must fix. The incident includes staff complaints and a possible network compromise.
+<br> <br>
+### *Timeline of Events*
 <div align="left" data-full-width="false">
+<img src="https://github.com/jj230/jj230/assets/93885534/19b61512-228b-4bab-8966-df305e2289d6" width = 500>
+</div>
+<br> <br>
 
-<img src="https://github.com/jj230/jj230/assets/93885534/d27d9491-9854-4d41-ab66-e2fad6069f6d" width = 600>
-
+### *Incident Response Plan*
+#### Attack Identification
+<div align="left" data-full-width="false">
+  
+<img src="https://github.com/jj230/jj230/assets/93885534/6cb1c101-7465-4040-8e4d-859c7dba2aba" width = 600>
 </div>
 
-#### Inventory of Products/Services
-
+#### Initial Steps
 <div align="left" data-full-width="false">
-
-<img src="https://github.com/jj230/jj230/assets/93885534/2fb13c9a-4c87-409d-9b9c-d80e5cc4a458" width = 600>
-
+<img src="https://github.com/jj230/jj230/assets/93885534/fe6cbad9-80ed-4f8a-9688-55e92cfebd39" width = 600>
 </div>
-<br>
 
-# Email
-I drafted this email from a company-provided template to inform the affected team of the vulnerability and of the necessary remediation steps.
-<br>
+#### Containment Steps
 <div align="left" data-full-width="false">
-
-<img src="https://github.com/jj230/jj230/assets/93885534/416c1750-ce66-493c-8448-cddcdcb0c40b" width = 700>
-
+<img src="https://github.com/jj230/jj230/assets/93885534/88b3f6e0-4370-4059-b0cf-863aef8f79dc" width = 600>
 </div>
-<br>
 
-## Scenario: Python Script
-
+#### Resolve Steps
 <div align="left" data-full-width="false">
-
-<img src="https://github.com/jj230/jj230/assets/93885534/fd735461-5bb1-4b55-b571-d8cff930e831" width = 700>
-
+<img src="https://github.com/jj230/jj230/assets/93885534/7e6de076-d193-494b-aa40-4893fd63ad0b" width = 600>
 </div>
-<br>
 
+#### Recovery Steps
 <div align="left" data-full-width="false">
-
-<img src="https://github.com/jj230/jj230/assets/93885534/4e8d9285-1299-44f9-a64a-26b4d5d9d637" width = 700>
-
+<img src="https://github.com/jj230/jj230/assets/93885534/427917f5-f206-4296-929a-6b5db755a9f6" width = 600>
 </div>
-<br>
 
-# Script
-
-Based on a template of a brute force password script, I completed the missing parts of the script until I had a script I could successfully use to decrypt the encrypted files.
-
-<br>
+#### Post-Incident Steps
 <div align="left" data-full-width="false">
-
-<img src="https://github.com/jj230/jj230/assets/93885534/3defcc4f-b345-4383-a89b-e8e0dc70405f" width = 700>
-
+<img src="https://github.com/jj230/jj230/assets/93885534/d08f910c-fe04-4cb3-9c43-1273b4edf4d5" width = 600>
 </div>
+
+
+## Task 3: 
