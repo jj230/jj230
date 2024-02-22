@@ -1,31 +1,42 @@
 ### Tools/Skills: 
-SIEM (Splunk), Dashboard Creation, Data Analysis, Data Visualization, Fraud-Related Data
+Splunk, Data Analysis, Data Protection, Data Visualization, Incident Response, Detection and Response, Incident Triage, Password Security, Penetration Testing, Fraud-Related Data, Security Awareness, Web Application Vulnerabilites, OWASP
 
 ---
-
 # Commonwealth Bank: Cybersecurity Job Simulation
+<div align="left" data-full-width="false">
+<img src="https://github.com/jj230/jj230/assets/93885534/4c7ded1c-29dc-48ef-aaa4-cd6a9cfd669f" width = 175>
+</div>
+
 
 # Overview
 
-<div align="left" data-full-width="false">
+Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage -
+February 2024
 
-<img src="" width = 700>
+ * Completed a job simulation involving the role of a cybersecurity generalist,
+   specializing in fraud detection and prevention for Commonwealth Bank's
+   Cybersecurity team.
+ * Developed skills in building data visualization dashboards using Splunk to
+   uncover patterns and insights in historical customer data, aiding in fraud
+   detection.
+ * Demonstrated the ability to respond effectively to cybersecurity incidents,
+   including notifying relevant teams, collecting information, containing and
+   stopping attacks, and aiding in recovery efforts.
+ * Enhanced security awareness expertise by designing infographics promoting
+   best practices for secure password management, following Australian
+   Cybersecurity Centre advice.
+ * Acquired practical experience in penetration testing, assessing the security
+   of web applications, identifying vulnerabilities, and providing
+   recommendations for remediation to bolster cybersecurity defenses.
 
-</div>
-<br>
-
-## Task 1: Fraud Data Analysis - Splunk Dashboard Creation
-"Analyze and visualize cyber data to uncover trends and patterns."
-
+# Task 1: Fraud Data Analysis - Splunk Dashboard Creation
 The company asked for a dashboard that would help gather necessary data to predict or detect fraud. They were specifically interested in the following categories: merchants, age of customers, gender of customers, category of purchases and month of purchase. Based on the specific charts the company indicated they'd like to have, I designed a dashboard in splunk for easy visualization of this data.
 <br>
 <br>
 ![Screenshot 2024-02-21 at 11 59 17 AM](https://github.com/jj230/jj230/assets/93885534/b82caf83-30c5-49a2-984f-27d9a6094b4f)
 <br>
 
-## Task 2: Incident Response
-"Mitigate cyber incidents by analyzing, responding and recovering for your organization."
-
+# Task 2: Incident Response
 IT Services at Commonwealth Bank has flagged an issue that my team must fix. The incident includes staff complaints and a possible network compromise.
 <br> <br>
 ### *Timeline of Events*
@@ -67,14 +78,15 @@ IT Services at Commonwealth Bank has flagged an issue that my team must fix. The
 </div>
 
 
-## Task 3: Raise Security Awareness - Infographic
+# Task 3: Raise Security Awareness - Infographic
 Based on [guidance given by the Australian Cyber Security Centre (ACSC)](https://www.cyber.gov.au/protect-yourself/securing-your-accounts/passphrases/creating-strong-passphrases), I created an infographic for using passphrases instead of passwords. While this may not have prevented the phishing email, it's an easy way to increase employee awareness of being safer in general. Additionally, the more employees think about their digital safety, the less likely they will be to fall for a phishing email.
 
+
 <div align="left" data-full-width="false">
-<img src="https://github.com/jj230/jj230/assets/93885534/9bf93dd2-c78f-4c88-afca-dcfe23010d9a" width = 300>
+<img src="https://github.com/jj230/jj230/assets/93885534/baa52645-6264-4337-b97e-6f182154de42" width = 300>
 </div>
 
-## Task 4: Web Application Security - Pen Testing
+# Task 4: Web Application Security - Pen Testing
 
 ### Executive Summary
 This report details the results of a penetration testing challenge that was completed to identify vulnerabilities in the "Basic" web challenge from HackThisSite.org. The results show critical vulnerabilities that allow unauthorized access to all areas in the /basic/ section. This could lead to financial, reputational, and customer loss for an organization. Recommendations for remedying this vulnerabilities are given.
