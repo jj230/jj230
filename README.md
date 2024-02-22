@@ -4,7 +4,7 @@
 
 ### Tools/Skills: 
   
-Azure, CLI (Linux/Unix, Bash, Powershell, MacOS), SIEMs (Sentinel, Splunk), Firewalls, Entra ID, Incident Response, Documentation, Private Endpoints, Defender for Cloud, Private Link, Log Ingestion, VMs, Burp Suite, Packet Analysis (Wireshark, tcpdump), Scripts, Python, SQL,
+Azure, CLI (Linux/Unix, Bash, Powershell, MacOS), SIEMs (Sentinel, Splunk), Firewalls, Entra ID, Incident Response, Documentation, Private Endpoints, Defender for Cloud, Private Link, Log Ingestion, VMs, Burp Suite, Packet Analysis (Wireshark, tcpdump), Scripts, Python, SQL, Data Analysis, Data Visualization, Incident Triage, Security Awareness, Web Application Vulnerabilities, OWASP,
 KQL, Standards/Regulations, Frameworks (e.g. NIST 800-53, PCI DSS), Nessus, DeepBlueCLI, Volatility, ZAP, Bluespawn, Log Analytics, Vulnerability Management & more
 
 ---
@@ -21,13 +21,13 @@ Created a Honeynet, set up log analytics & Sentinel, monitored attacks, responde
 
 Researched a reported vulnerability, drafted an email to guide teams on vulnerability remediation, created a python script to brute force password for encrypted files. 
 
-*Tools/Skills: Vulnerability Analysis, Python Scripting, Email Documentation
+* Tools/Skills: Vulnerability Analysis, Python Scripting, Email Documentation
 
-### 3. [Commonwealth Bank: Cybersecurity Job Simulation](commonwealth_bank.md)
+### 3. [Commonwealth Bank: Cybersecurity Job Simulation](commonwealthbank.md)
 
 Designed a Splunk dashboard to present potential fraud data, detailed an incident response plan to a phishing attack and potential ransomware attack, created an infographic to raise awareness for creating stronger passwords, identified vulnerabilities in a web application and presented possible remediation steps.
 
-*Tools/Skills: Splunk, Data Analysis, Data Protection, Data Visualization, Incident Response, Detection and Response, Incident Triage, Password Security, Penetration Testing, Fraud-Related Data, Security Awareness, Web Application Vulnerabilites, OWASP
+* Tools/Skills: Splunk, Data Analysis, Data Protection, Data Visualization, Incident Response, Detection and Response, Incident Triage, Password Security, Penetration Testing, Fraud-Related Data, Security Awareness, Web Application Vulnerabilites, OWASP
 
 ### 3. [Splunk](splunk.md)
 
