@@ -76,6 +76,13 @@ Based on [guidance given by the Australian Cyber Security Centre (ACSC)](https:/
 
 ## Task 4: Web Application Security - Pen Testing
 
+### Executive Summary
+The security vulnerabilites found in this section of the website allow unauthorized access to all areas in the /basic/ section. These vulnerabilites can be easily remediated. 
+
+### Scope of Testing
+https://www.hackthissite.org/missions/basic/
+Levels 1 - 11
+
 ### Found Vulnerability 1: HTML Source Code
 The HTML Source Code reveals the password in the console.
 
