@@ -3,10 +3,6 @@ Splunk, Data Analysis, Data Protection, Data Visualization, Incident Response, D
 
 ---
 # Commonwealth Bank: Cybersecurity Job Simulation
-<div align="left" data-full-width="false">
-<img src="https://github.com/jj230/jj230/assets/93885534/4c7ded1c-29dc-48ef-aaa4-cd6a9cfd669f" width = 175>
-</div>
-
 
 # Overview
 
