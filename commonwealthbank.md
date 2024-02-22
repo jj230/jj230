@@ -101,7 +101,7 @@ On the login page for level 2, no password is required due to not uploading the 
 <div align="left" data-full-width="false">
 <img src="https://github.com/jj230/jj230/assets/93885534/447ed0ba-35a2-4d91-bc39-926237acbcd9" width = 400>
 </div>
-
+<br>
 <div align="left" data-full-width="false">  
 <img src="https://github.com/jj230/jj230/assets/93885534/c767b865-9c6e-4615-b699-ddeb3e3f28fe" width = 400>
 </div>
@@ -128,15 +128,16 @@ On the login page for level 2, no password is required due to not uploading the 
 Test password:
 
 <div align="left" data-full-width="false">
-<img src="https://github.com/jj230/jj230/assets/93885534/9a69623d-0c6a-4c2a-80e9-ca37ac13d52f" width = 400>
+<img src="https://github.com/jj230/jj230/assets/93885534/9a69623d-0c6a-4c2a-80e9-ca37ac13d52f" width = 600>
 </div>
+
+<br>
 
 Encrypted test password:
-
 <div align="left" data-full-width="false">
-<img src="https://github.com/jj230/jj230/assets/93885534/c79935c1-6d10-47b8-8a6e-9c4ef1aa8f6a" width = 400>
+<img src="https://github.com/jj230/jj230/assets/93885534/c79935c1-6d10-47b8-8a6e-9c4ef1aa8f6a" width = 250>
 </div>
-
+<br>
 Pattern:
 1st character -> same
 2nd character -> shift 1 to the right of the [ASCII table]([url](https://www.asciitable.com/))
@@ -154,13 +155,13 @@ Decrypted Password is: 04c8a5fc
 ### Found Vulnerability 6: UNIX injection
 
 <div align="left" data-full-width="false">
-<img src="https://github.com/jj230/jj230/assets/93885534/709d438e-4bd9-43ce-9c6f-6b47cc01a591" width = 400>
+<img src="https://github.com/jj230/jj230/assets/93885534/709d438e-4bd9-43ce-9c6f-6b47cc01a591" width = 600>
 </div>
-
+<br>
 <div align="left" data-full-width="false">
-<img src="https://github.com/jj230/jj230/assets/93885534/030b4ee3-78be-4c1b-931b-9dfbab0cef47" width = 400>
+<img src="https://github.com/jj230/jj230/assets/93885534/030b4ee3-78be-4c1b-931b-9dfbab0cef47" width = 250>
 </div>
-
+<br>
 <div align="left" data-full-width="false">  
 <img src="https://github.com/jj230/jj230/assets/93885534/c98eefe7-88d4-4fb7-b5d0-15518383d226" width = 400>
 </div>
@@ -170,18 +171,22 @@ Decrypted Password is: 04c8a5fc
 ### Found Vulnerability 7: Lack of Server Side Validation
 
 <div align="left" data-full-width="false">
-<img src="https://github.com/jj230/jj230/assets/93885534/21cae8e4-c39c-4032-829a-839d83e36846" width = 400>
+<img src="https://github.com/jj230/jj230/assets/93885534/21cae8e4-c39c-4032-829a-839d83e36846" width = 300>
 </div>
 
 <div align="left" data-full-width="false">  
 <img src="https://github.com/jj230/jj230/assets/93885534/12dc5e5d-84ba-45d3-9628-c493919f85e4" width = 400>
 </div>
 
-Injected: <!--#exec cmd="ls ../" -->
+<br>
+
+Injected: ```<!--#exec cmd="ls ../" -->```
 
 <div align="left" data-full-width="false">
 <img src="https://github.com/jj230/jj230/assets/93885534/5122f270-9eec-4067-80fd-224e25b87de6" width = 400>
 </div>
+
+<br>
 
 <div align="left" data-full-width="false">  
 <img src="https://github.com/jj230/jj230/assets/93885534/7071dd60-bbf5-4306-857b-ff185bec0566" width = 400>
