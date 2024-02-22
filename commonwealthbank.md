@@ -67,4 +67,63 @@ IT Services at Commonwealth Bank has flagged an issue that my team must fix. The
 </div>
 
 
-## Task 3: 
+## Task 3: Raise Security Awareness - Infographic
+Based on [guidance given by the Australian Cyber Security Centre (ACSC)](https://www.cyber.gov.au/protect-yourself/securing-your-accounts/passphrases/creating-strong-passphrases), I created an infographic for using passphrases instead of passwords. While this may not have prevented the phishing email, it's an easy way to increase employee awareness of being safer in general. Additionally, the more employees think about their digital safety, the less likely they will be to fall for a phishing email.
+
+<div align="left" data-full-width="false">
+<img src="https://github.com/jj230/jj230/assets/93885534/9bf93dd2-c78f-4c88-afca-dcfe23010d9a" width = 300>
+</div>
+
+## Task 4: Web Application Security - Pen Testing
+
+### Found Vulnerability 1: HTML Source Code
+The HTML Source Code reveals the password in the console.
+
+![Screenshot 2024-02-21 at 3 13 44 PM](https://github.com/jj230/jj230/assets/93885534/161d26ad-196a-40d1-9593-30a525565e13)
+
+### Found Vulnerability 2: No password required
+On the login page for level 2, no password is required due to not uploading the correct password to compare the entry to.
+
+### Found Vulnerability 3: Password File Accessible to Public
+![Screenshot 2024-02-21 at 3 20 26 PM](https://github.com/jj230/jj230/assets/93885534/447ed0ba-35a2-4d91-bc39-926237acbcd9)
+![Screenshot 2024-02-21 at 3 32 04 PM](https://github.com/jj230/jj230/assets/93885534/c767b865-9c6e-4615-b699-ddeb3e3f28fe)
+
+### Found Vulnerability 4: Editable Email Address Recovery in Source Code
+
+![Screenshot 2024-02-21 at 3 34 42 PM](https://github.com/jj230/jj230/assets/93885534/2d3ae3b4-52e7-427a-99e0-d3941f502cc7)
+![Screenshot 2024-02-21 at 3 36 21 PM](https://github.com/jj230/jj230/assets/93885534/dc982687-ded7-4223-a415-e0cd44263c68)
+![Screenshot 2024-02-21 at 3 37 29 PM](https://github.com/jj230/jj230/assets/93885534/ef6e00dc-54ca-451b-a3f2-b39def1856da)
+
+### Found Vulnerability 5: Can Reverse Engineer Encryption Method
+Test password:
+![Screenshot 2024-02-21 at 4 00 20 PM](https://github.com/jj230/jj230/assets/93885534/9a69623d-0c6a-4c2a-80e9-ca37ac13d52f)
+Encrypted test password:
+![Screenshot 2024-02-21 at 4 01 02 PM](https://github.com/jj230/jj230/assets/93885534/c79935c1-6d10-47b8-8a6e-9c4ef1aa8f6a)
+Pattern:
+1st character -> same
+2nd character -> shift 1 to the right of the [ASCII table]([url](https://www.asciitable.com/))
+3rd character -> shift 2
+4th character -> shift 3
+encrypted character = character + n; given that n = character placement and placement starts at 0
+
+Conclusion:
+Encrypted Password is: 05e;e:lj
+Pattern to Decrypt: shift positions --> same, -1, -2, -3, -4, -5, -6, -7
+Decrypted Password is: 04c8a5fc
+
+### Found Vulnerability 6: UNIX injection
+![Screenshot 2024-02-21 at 4 15 52 PM](https://github.com/jj230/jj230/assets/93885534/709d438e-4bd9-43ce-9c6f-6b47cc01a591)
+![Screenshot 2024-02-21 at 4 16 31 PM](https://github.com/jj230/jj230/assets/93885534/030b4ee3-78be-4c1b-931b-9dfbab0cef47)
+![Screenshot 2024-02-21 at 4 17 56 PM](https://github.com/jj230/jj230/assets/93885534/c98eefe7-88d4-4fb7-b5d0-15518383d226)
+
+### Found Vulnerability 7: Lack of Server Side Validation
+![Screenshot 2024-02-21 at 4 23 43 PM](https://github.com/jj230/jj230/assets/93885534/21cae8e4-c39c-4032-829a-839d83e36846)
+![Screenshot 2024-02-21 at 4 24 03 PM](https://github.com/jj230/jj230/assets/93885534/12dc5e5d-84ba-45d3-9628-c493919f85e4)
+Injected: <!--#exec cmd="ls ../" -->
+![Screenshot 2024-02-21 at 4 37 37 PM](https://github.com/jj230/jj230/assets/93885534/5122f270-9eec-4067-80fd-224e25b87de6)
+![Screenshot 2024-02-21 at 4 38 18 PM](https://github.com/jj230/jj230/assets/93885534/7071dd60-bbf5-4306-857b-ff185bec0566)
+
+### Found Vulnerability 7: Editable Cookies - Allow Access, Password Info
+![Screenshot 2024-02-21 at 4 45 40 PM](https://github.com/jj230/jj230/assets/93885534/ed31b70d-0f32-499c-a7ec-f82c7e7e6771)
+![Screenshot 2024-02-21 at 4 47 13 PM](https://github.com/jj230/jj230/assets/93885534/e1b4c437-c9c4-4d64-9f6d-f2980409cf33)
+
