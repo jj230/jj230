@@ -23,6 +23,12 @@ Researched a reported vulnerability, drafted an email to guide teams on vulnerab
 
 *Tools/Skills: Vulnerability Analysis, Python Scripting, Email Documentation
 
+### 3. [Commonwealth Bank: Cybersecurity Job Simulation](commonwealth_bank.md)
+
+Designed a Splunk dashboard to present potential fraud data, detailed an incident response plan to a phishing attack and potential ransomware attack, created an infographic to raise awareness for creating stronger passwords, identified vulnerabilities in a web application and presented possible remediation steps.
+
+*Tools/Skills: Splunk, Data Analysis, Data Protection, Data Visualization, Incident Response, Detection and Response, Incident Triage, Password Security, Penetration Testing, Fraud-Related Data, Security Awareness, Web Application Vulnerabilites, OWASP
+
 ### 3. [Splunk](splunk.md)
 
 Splunk Workshop - Based on weblogs data from a fictional instance, I setup an app and a dashboard within it
