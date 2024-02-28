@@ -18,4 +18,4 @@ A couple of projects I've done within this domain are below:
 
 #### 3. [SHA 256 Password Cracking](python-scripts/sha256-cracking.md)
 
-#### 4. [Encrypted Files Brute Forcing](jj230/AIG-JobSimulation.md)
+#### 4. [Encrypted Files Brute Forcing](https://github.com/jj230/jj230/blob/main/AIG-JobSimulation.md)
