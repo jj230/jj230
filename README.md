@@ -1,8 +1,7 @@
 # Projects Overview
 
-<div>
-<img src="https://github.com/jj230/jj230/assets/93885534/1fbf488c-af82-4e58-b947-94e13db4e947" width = 400;
-</div>
+
+  
 ---
 
 ### Tools/Skills: 
