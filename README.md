@@ -1,11 +1,16 @@
 # Projects Overview
 
+<div>
+<img src="https://github.com/jj230/jj230/assets/93885534/1fbf488c-af82-4e58-b947-94e13db4e947" width = 400;
+</div>
 ---
 
 ### Tools/Skills: 
   
 Azure, CLI (Linux/Unix, Bash, Powershell, MacOS), SIEMs (Sentinel, Splunk), Firewalls, Entra ID, Incident Response, Documentation, Private Endpoints, Defender for Cloud, Private Link, Log Ingestion, VMs, Burp Suite, Packet Analysis (Wireshark, tcpdump), Scripts, Python, SQL, Data Analysis, Data Visualization, Incident Triage, Security Awareness, Web Application Vulnerabilities, OWASP,
 KQL, Standards/Regulations, Frameworks (e.g. NIST 800-53, PCI DSS), Nessus, DeepBlueCLI, Volatility, ZAP, Bluespawn, Log Analytics, Vulnerability Management & more
+
+
 
 ---
 
