@@ -16,6 +16,7 @@ Private Endpoints, NSGs, Defender for Cloud, Private Link, Workbooks, Log Ingest
 <img src="https://github.com/jj230/Azure-SOC/assets/93885534/6e195d27-ee5a-40a8-95b0-5476f3e06b69" alt="Azure Cloud Honeynet" width="563">
 
 </div>
+
 I decided to create this virtual network, set up and manage a SIEM, and implement security controls, because I wanted to better understand cloud environments. I wanted to get a visual picture of how the environment, the logs, the SIEM, the firewalls (or NSGs), the security controls and the frameworks all come together. I knew Azure was a popular cloud service and I knew once I figured out how something works in one environment, I'd be able to transfer that knowledge to a similar tool, such as AWS.
 
 In this project, I designed a purposely insecure environment (a small honeynet) in Azure, set up a Log Analytics workspace, configured logging, set up Microsoft Sentinel (SIEM), built workbooks with attack maps, created alerts that would document incidents, and triaged and responded to these incidents. I initially designed the network so that all traffic was allowed through. 
