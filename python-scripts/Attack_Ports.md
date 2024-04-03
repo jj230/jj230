@@ -6,6 +6,7 @@ Relying on what I know about python and scripts already mixed with some research
 
 <div align="left">
 
-<img src="https://github.com/jj230/jj230/assets/93885534/0461aaee-c6ad-4a01-ba2d-821ccd1a820e" width = "850">
+<img src="https://github.com/jj230/jj230/assets/93885534/0461aaee-c6ad-4a01-ba2d-821ccd1a820e" width = "650">
 
 </div>
+
