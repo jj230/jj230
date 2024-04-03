@@ -12,7 +12,7 @@ This year, I've started learning python in the context of cybersecurity and scri
 
 A couple of projects I've done within this domain are below:
 
-#### 1. [Source Ports of Attack](python-scripts/Attack_Ports.md)
+#### 1. [Source Ports of Attack](Attack_Ports.md)
 
 #### 2. [Updating ](updating-file-allowed-ip-addresses.md)[F](updating-file-allowed-ip-addresses.md)[ile - Allowed IP Addresses Script](updating-file-allowed-ip-addresses.md)
 
