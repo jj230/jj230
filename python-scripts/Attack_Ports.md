@@ -28,8 +28,8 @@ In normal web traffic, an ephemeral source port is used for initial connection. 
 
 This type of rule would need fine-tuning over time. For instance, it can be updated to rule out known, trusted traffic, and the threshold could change based on number of false positives. 
 
-SecurityEvent 
-| where TimeGenerated > ago(5min)  // Adjust time window as needed
-| summarize ConnectionCount = count(), DistinctSourcePorts = dcount(DestinationPort) by SourceIP
-| where DistinctSourcePorts > 100 // Adjust threshold as needed
+LogFileName <br>
+| where TimeGenerated > ago(5min)  // Adjust time window as needed <br>
+| summarize ConnectionCount = count(), DistinctSourcePorts = dcount(DestinationPort) by SourceIP <br>
+| where DistinctSourcePorts > 100 // Adjust threshold as needed <br>
 
