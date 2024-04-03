@@ -22,5 +22,14 @@ I updated the script further to also reveal the source IP Address(es).
 
 # Analysis
 
-In normal web traffic, an ephemeral source port is used for initial connection. Once that connection is made, the ephemeral port stays the same. In the case of failed login attempts, the connection is normally maintained between failed login attempts. The change of ephemeral source ports could be an attempt by the attacker to obfuscate their brute force attack.
+In normal web traffic, an ephemeral source port is used for initial connection. Once that connection is made, the ephemeral port stays the same. In the case of failed login attempts, the connection is normally maintained between failed login attempts, which would mean the chosen source port would remain the same. The change of ephemeral source ports could be an attempt by the attacker to obfuscate their brute force attack. By changing their source port, they start a new connection each time and may make it harder for systems to catch them. 
+
+# Sentinel Rule to Alert to Traffic of this Kind
+
+This type of rule would need fine-tuning over time. For instance, it can be updated to rule out known, trusted traffic, and the threshold could change based on number of false positives. 
+
+SecurityEvent 
+| where TimeGenerated > ago(5min)  // Adjust time window as needed
+| summarize ConnectionCount = count(), DistinctSourcePorts = dcount(DestinationPort) by SourceIP
+| where DistinctSourcePorts > 100 // Adjust threshold as needed
 
