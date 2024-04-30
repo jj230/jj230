@@ -23,3 +23,6 @@ A couple of projects I've done within this domain are below:
 #### 5. [SHA 256 Password Cracking](sha256-cracking.md)
 
 #### 6. [Encrypted Files Brute Forcing](https://github.com/jj230/jj230/blob/main/AIG-JobSimulation.md)
+
+#### 7. Decode 9000+ Barcodes
+  - This is part of an active BTLO Challenge, so I am unable to post my script. I successfully completed it.
