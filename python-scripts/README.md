@@ -14,7 +14,7 @@ A couple of projects I've done within this domain are below:
 
 #### 1. [Finding Source Ports of Attack](Attack_Ports.md)
 
-#### 2. [4 Digit Pin - Brute Force Zip File]
+#### 2. [4 Digit Pin - Brute Force Zip File](4digitpin.md)
 
 #### 3. [Updating ](updating-file-allowed-ip-addresses.md)[F](updating-file-allowed-ip-addresses.md)[ile - Allowed IP Addresses Script](updating-file-allowed-ip-addresses.md)
 
