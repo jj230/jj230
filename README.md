@@ -9,21 +9,21 @@ KQL, Standards/Regulations, Frameworks (e.g. NIST 800-53, PCI DSS), Nessus, Deep
 
 ### Conferences:
 
-RSA Conference 2024, WiCyS Scholarship Recipient
-BSides Harrisburg 2024
-BSides San Diego 2024
-SANS New2Cyber 2024
-Authentic8 OSINT 2024
-MWise 2023
+* RSA Conference 2024, WiCyS Scholarship Recipient
+* BSides Harrisburg 2024
+* BSides San Diego 2024
+* SANS New2Cyber 2024
+* Authentic8 OSINT 2024
+* MWise 2023
 
 ### CTFs:
 
-Correlation One & DoD Cyber Sentinel Challege, May 2024 (placed 453/~5000, top 10 - 15%)
-MetaCTF RSA - Capture the Container, May 2024 (placed 3rd/6)
-MetaCTF, April 2024 (placed 38/938, top 5%)
-Trace Labs, BSides Harrisburg, April 2024 (placed 2nd out of Unknown - possibly only 3)
-KC7 SANS New2Cyber, April 2024 (placed 6th/182, top 4%)
-SANS Holiday Hack Challenge, Dec/Jan 23-24 (completed 13 challenges, including challenges completed by less than 6% of participants)
+* Correlation One & DoD Cyber Sentinel Challege, May 2024 (placed 453/~5000, top 10 - 15%)
+* MetaCTF RSA - Capture the Container, May 2024 (placed 3rd/6)
+* MetaCTF, April 2024 (placed 38/938, top 5%)
+* Trace Labs, BSides Harrisburg, April 2024 (placed 2nd out of Unknown - possibly only 3)
+* KC7 SANS New2Cyber, April 2024 (placed 6th/182, top 4%)
+* SANS Holiday Hack Challenge, Dec/Jan 23-24 (completed 13 challenges, including challenges completed by less than 6% of participants)
 
 ---
 
