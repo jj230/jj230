@@ -2,6 +2,16 @@
   
 ---
 
+### Cybersecurity Education
+
+SANS Cyber Academy, Scholarship Recipient, 09/24 - 06/25
+
+### Certifications:
+
+GIAC: 	Security Essentials Certification (GSEC), Foundational Cybersecurity Technologies (GFACT); 
+        Certified Incident Handler (GCIH) - Expected by 06/2025
+CompTIA: Security+
+
 ### Tools/Skills: 
   
 Azure, CLI (Linux/Unix, Bash, Powershell, MacOS), SIEMs (Sentinel, Splunk), Firewalls, Entra ID, Incident Response, Documentation, Private Endpoints, Defender for Cloud, Private Link, Log Ingestion, VMs, Burp Suite, Packet Analysis (Wireshark, tcpdump), Scripts, Python, SQL, Data Analysis, Data Visualization, Incident Triage, Security Awareness, Web Application Vulnerabilities, OWASP,
@@ -9,6 +19,7 @@ KQL, Standards/Regulations, Frameworks (e.g. NIST 800-53, PCI DSS), Nessus, Deep
 
 ### Conferences:
 
+* WiCyS Conference 2025 (upcoming)
 * RSA Conference 2024, WiCyS Scholarship Recipient
 * BSides Harrisburg 2024
 * BSides San Diego 2024
@@ -21,7 +32,7 @@ KQL, Standards/Regulations, Frameworks (e.g. NIST 800-53, PCI DSS), Nessus, Deep
 * Correlation One & DoD Cyber Sentinel Challege, May 2024 (placed 453/~5000, top 10 - 15%)
 * MetaCTF RSA - Capture the Container, May 2024 (placed 3rd/6)
 * MetaCTF, April 2024 (placed 38/938, top 5%)
-* Trace Labs, BSides Harrisburg, April 2024 (placed 2nd out of Unknown - possibly only 3)
+* Trace Labs, BSides Harrisburg, April 2024 (placed 2nd out of Unknown)
 * KC7 SANS New2Cyber, April 2024 (placed 6th/182, top 4%)
 * SANS Holiday Hack Challenge, Dec/Jan 23-24 (completed 13 challenges, including challenges completed by less than 6% of participants)
 
