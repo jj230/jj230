@@ -8,9 +8,13 @@ SANS Cyber Academy, Scholarship Recipient, 09/24 - 06/25
 
 ### Certifications:
 
-GIAC: 	Security Essentials Certification (GSEC), Foundational Cybersecurity Technologies (GFACT); 
-        Certified Incident Handler (GCIH) - Expected by 06/2025
-CompTIA: Security+
+GIAC: 	
+* Security Essentials Certification (GSEC)
+* Foundational Cybersecurity Technologies (GFACT)
+* Certified Incident Handler (GCIH) - Expected by 06/2025
+
+CompTIA
+* Security+
 
 ### Tools/Skills: 
   
