@@ -8,22 +8,17 @@ SANS Cyber Academy, Scholarship Recipient, 09/24 - 05/25
 
 ### Certifications:
 
-GIAC: 	
-* Security Essentials Certification (GSEC)
-* Foundational Cybersecurity Technologies (GFACT)
-* Certified Incident Handler (GCIH) - Expected by 06/2025
+GIAC: GSEC, GFACT, and Expected 05/2025: GCIH
 
-CompTIA
-* Security+
+CompTIA: Security+
 
 ### Tools/Skills: 
   
-Azure, CLI (Linux/Unix, Bash, Powershell, MacOS), SIEMs (Sentinel, Splunk), Firewalls, Entra ID, Incident Response, Documentation, Private Endpoints, Defender for Cloud, Private Link, Log Ingestion, VMs, Burp Suite, Packet Analysis (Wireshark, tcpdump), Scripts, Python, SQL, Data Analysis, Data Visualization, Incident Triage, Security Awareness, Web Application Vulnerabilities, OWASP,
-KQL, Standards/Regulations, Frameworks (e.g. NIST 800-53, PCI DSS), Nessus, DeepBlueCLI, Volatility, ZAP, Bluespawn, Log Analytics, Vulnerability Management, PowerShell & more
+Azure, CLI (Linux/Unix, Bash, Powershell, MacOS), SIEMs (Sentinel, Splunk), Firewalls, Entra ID, Incident Response, Documentation, Private Endpoints, Defender for Cloud, Log Ingestion, VMs, Burp Suite, Packet Analysis (Wireshark, tcpdump), Scripts, Python, SQL, Data Analysis, Data Visualization, Incident Triage, Security Awareness, Web Application Vulnerabilities, OWASP, KQL, SPL, metasploit Standards/Regulations and Frameworks (e.g. NIST CSF, RMF, 800-53, PCI DSS, HIPAA, MITRE ATT&CK), Nessus, DeepBlueCLI, Volatility, ZAP, Bluespawn, Log Analytics, Vulnerability Management, PowerShell & more
 
 ### Conferences:
 
-* WiCyS Conference 2025 (upcoming)
+* WiCyS Conference 2025
 * RSA Conference 2024, WiCyS Scholarship Recipient
 * BSides Harrisburg 2024
 * BSides San Diego 2024
@@ -34,10 +29,12 @@ KQL, Standards/Regulations, Frameworks (e.g. NIST 800-53, PCI DSS), Nessus, Deep
 ### CTFs:
 
 * NCL @ WiCyS Conference 2025, April 2025 (placed 14/632, top 2.2%)
-* Correlation One & DoD Cyber Sentinel Challege, May 2024 (placed 453/~5000, top 10 - 15%)
-* MetaCTF RSA - Capture the Container, May 2024 (placed 3rd/6)
+* KC7 SANS New2Cyber (Log Intrustion Analysis via KQL), March 2024 (placed 11/298, top 3.7%)
+* Cyber Defense CTF by Level Effect, June 2024 (I didn't document results; I believe it was top 10%)
+* Correlation One & DoD Cyber Sentinel Challege, May 2024 (placed 453/~5000, top 10%)
+* MetaCTF RSA - Capture the Container, May 2024 (placed 3/6)
 * MetaCTF, April 2024 (placed 38/938, top 5%)
-* Trace Labs, BSides Harrisburg, April 2024 (placed 2nd out of Unknown)
+* Trace Labs, BSides Harrisburg, April 2024 (placed 2/Unknown)
 * KC7 SANS New2Cyber, April 2024 (placed 6/182, top 4%)
 * SANS Holiday Hack Challenge, Dec/Jan 23-24 (completed 13 challenges, including challenges completed by less than 6% of participants)
 
