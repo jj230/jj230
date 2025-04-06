@@ -72,9 +72,11 @@ Splunk Workshop - Based on weblogs data from a fictional instance, I setup an ap
 
 * Tools/Skills: Azure, Linux, Phishing, Burp Suite, HTTP Traffic, Certificates, Web Application Security, HTML, Javascript, Command Injection, KQL, Incident Investigation, Log Analysis
 
-### 5. [Python Scripts](python-scripts/)
+### 5. [Scripts](python-scripts/)
 
-* Tools/Skills: Python - Cybersecurity, Scripting, Python - Data Science, SQL, matplotlib, pandas, numpy
+* Tools/Skills:
+  * Python - Cybersecurity, Scripting, Python - Data Science, SQL, matplotlib, pandas, numpy
+  * Bash Scripting
 
 ### 6. [Linux](linux-cli/)
 
