@@ -4,7 +4,7 @@
 
 ### Cybersecurity Education
 
-SANS Cyber Academy, Scholarship Recipient, 09/24 - 06/25
+SANS Cyber Academy, Scholarship Recipient, 09/24 - 05/25
 
 ### Certifications:
 
